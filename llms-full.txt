@@ -1,0 +1,3490 @@
+# Bank of England RSS Taxonomy (Experiments in Agents and Data Science)
+
+> An unofficial, agent-maintained index of everything published through the Bank of England's public RSS feeds (news, speeches, publications, statistics, PRA publications, events, explainers and Bank Insights), organised into a subject taxonomy and refreshed weekly. 378 items; last updated 2026-11-16. Not affiliated with the Bank of England; all content and links belong to the Bank.
+
+Each entry links to the original page on bankofengland.co.uk. Themes are assigned by transparent keyword rules (see scripts/taxonomy.py). Machine-readable data: data/items.json and data/items.csv.
+
+## Dataset
+
+- [items.json](https://raw.githubusercontent.com/anorthernman-developer/experiments-in-agents-and-data-science/main/data/items.json): every archived item with theme, content type, dates and link
+- [items.csv](https://raw.githubusercontent.com/anorthernman-developer/experiments-in-agents-and-data-science/main/data/items.csv): the same data as CSV
+- [Latest weekly digest](https://raw.githubusercontent.com/anorthernman-developer/experiments-in-agents-and-data-science/main/weekly/latest.md): what is new this week, grouped by theme
+- [llms-full.txt](https://raw.githubusercontent.com/anorthernman-developer/experiments-in-agents-and-data-science/main/llms-full.txt): every item with its description in one file
+
+## Source feeds
+
+- [Bank Insights](https://www.bankofengland.co.uk/rss/bank-insights): Short analytical pieces from Bank staff.
+- [Events](https://www.bankofengland.co.uk/rss/events): Conferences, workshops and Citizens' Panels hosted or attended by the Bank.
+- [Explainers](https://www.bankofengland.co.uk/rss/knowledgebank): Plain-English explainers on economics and the Bank.
+- [News](https://www.bankofengland.co.uk/rss/news): Press releases, letters, minutes and announcements.
+- [Prudential regulation publications](https://www.bankofengland.co.uk/rss/prudential-regulation-publications): PRA consultation papers, policy statements, discussion papers and digests.
+- [Publications](https://www.bankofengland.co.uk/rss/publications): Reports, papers, surveys, working papers and weekly reports.
+- [Speeches](https://www.bankofengland.co.uk/rss/speeches): Speeches and panels by Bank of England policymakers and staff.
+- [Statistics](https://www.bankofengland.co.uk/rss/statistics): Statistical releases such as Money and Credit and effective interest rates.
+
+## Monetary Policy
+
+Bank Rate, the MPC, inflation, the Monetary Policy Report, the Agents and the Asset Purchase Facility.
+
+### Challenges to Monetary Policy: University of Leeds and Bank of England Workshop
+
+- URL: https://www.bankofengland.co.uk/events/2027/february/challenges-to-monetary-policy-university-of-leeds-and-boe-workshop
+- Published: 17 February 2027 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+A joint workshop bringing together academics and policymakers to discuss contemporary and future challenges in monetary policy and central banking. The event will showcase cutting-edge theoretical and empirical research and provide an opportunity for engagement between researchers and practitioners.
+
+### Bank of England to hear the views of people in Northern Ireland about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/november/boe-to-hear-views-of-people-in-belfast-about-the-cost-of-living
+- Published: 16 November 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Northern Ireland about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Bank of England to hear the views of the people in Bristol about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/november/boe-to-hear-views-of-people-in-bristol-about-the-cost-of-living
+- Published: 16 November 2026 13:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Bristol about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### The low-gear labour market − speech by Clare Lombardelli
+
+- URL: https://www.bankofengland.co.uk/speech/2026/november/clare-lombardelli-speech-at-the-bank-watchers-conference
+- Published: 10 November 2026 12:30 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Bank of England Watchers Conference
+
+### Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026
+
+- URL: https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026
+- Published: 10 November 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Exchange of letters between the Governor and the Chancellor
+
+### Asset Purchase Facility Quarterly Report - 2026 Q3
+
+- URL: https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3
+- Published: 10 November 2026 12:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.
+
+### Monetary Policy Report - November 2026
+
+- URL: https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026
+- Published: 05 November 2026 12:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our quarterly Monetary Policy Report sets out the economic analysis and inflation projections that the Monetary Policy Committee uses to make its interest rate decisions.
+
+### Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes
+
+- URL: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026
+- Published: 05 November 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.
+
+### Monthly Decision Maker Panel data - October 2026
+
+- URL: https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026
+- Published: 30 October 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.
+
+### Agents' summary of business conditions - October 2026
+
+- URL: https://www.bankofengland.co.uk/agents-summary/2026/october-2026
+- Published: 30 October 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.
+
+### Effective interest rates - September 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/september-2026
+- Published: 29 October 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### Remit for the Monetary Policy Committee - October 2026
+
+- URL: https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026
+- Published: 28 October 2026 14:16 (UK time)
+- Content type: News
+- Feeds: news
+
+Letter from the Chancellor to the Governor
+
+### Learning about earnings: Can we rely on labour market slack to mitigate the latest supply shock? − speech by Megan Greene
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/megan-greene-speech-at-lse-economics-society-london
+- Published: 20 October 2026 18:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at London School of Economics
+
+### Inflation in central sectors with rigid prices: a granular measure of underlying inflationary pressures
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/inflation-in-central-sectors-with-rigid-prices
+- Published: 19 October 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Not all inflation is created equal. By placing greater weight on inflation in sectors with rigid prices and in central positions in the economy, this novel measure aims to better capture the broad-based inflationary pressures monetary policy can and should address, in pursuit of the existing remit.
+
+### Financial innovation, dollar dominance and their UK monetary policy implications
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/financial-innovation-dollar-dominance-and-their-uk-monetary-policy-implications
+- Published: 16 October 2026 21:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Presented at the Jackson Hole Economic Policy Symposium: Financial Innovation — Implications for Payments and Policy in Jackson, Wyoming. 28th August 2026
+
+### Navigating climate policy shocks: optimal monetary policy responses
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses
+- Published: 09 October 2026 14:02 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Domestic and foreign insurer corporate bond demand and monetary policy
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy
+- Published: 09 October 2026 14:01 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Bank of England to hear the views of the people in Cheshire about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/october/boe-to-hear-views-of-people-in-warrington-about-the-cost-of-living
+- Published: 07 October 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Cheshire about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Monthly Decision Maker Panel data - September 2026
+
+- URL: https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026
+- Published: 02 October 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.
+
+### Financial conditions: what’s priced in? − speech by Catherine L. Mann
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/catherine-mann-nomura-investor-conference
+- Published: 01 October 2026 13:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Nomura London Macro Forum
+
+### How will AI affect jobs and wages?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-will-ai-affect-jobs-and-wages
+- Published: 30 September 2026 14:13 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Artificial intelligence could change the types of jobs people do, the tasks involved and the skills employers need
+
+### Effective interest rates - August 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/august-2026
+- Published: 29 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### Quantitative tightening: the next chapter − speech by Dave Ramsden
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/dave-ramsden-speech-on-quantitative-tightening
+- Published: 28 September 2026 11:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Bank of England, co-hosted by the Money, Macro and Finance Society
+
+### Dave Ramsden speech on Quantitative Tightening
+
+- URL: https://www.bankofengland.co.uk/events/2026/september/dave-ramsden-quantitative-tightening
+- Published: 28 September 2026 11:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Hybrid event
+
+### Inflation composition and monetary stabilization
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization
+- Published: 25 September 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Minutes of the Market Participants Group meeting – 24 September 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026
+- Published: 25 September 2026 07:30 (UK time)
+- Content type: News
+- Feeds: news
+
+The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.
+
+### The outlook for inflation − speech by Clare Lombardelli
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/clare-lombardelli-speech-at-the-sixth-biennial-conference-poland
+- Published: 24 September 2026 09:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Sixth Biennial Conference on Macroeconomic Policy, Warsaw
+
+### Transcript of the Governor's pooled broadcast interview given on 17 September 2026
+
+- URL: https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026
+- Published: 17 September 2026 14:30 (UK time)
+- Content type: News
+- Feeds: news
+
+Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting
+
+### Monetary Policy Committee dates for 2027
+
+- URL: https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027
+- Published: 17 September 2026 14:30 (UK time)
+- Content type: News
+- Feeds: news
+
+2027 confirmed dates
+
+### Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026
+
+- URL: https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf
+- Published: 17 September 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Exchange of letters between the Governor and the Chancellor
+
+### Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026
+
+- URL: https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026
+- Published: 17 September 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Exchange of letters between the Governor and the Chancellor
+
+### Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes
+
+- URL: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026
+- Published: 17 September 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.
+
+### Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026
+
+- URL: https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026
+- Published: 17 September 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank reviews a model of selling gilts to the Government.
+
+### Bank of England/Savanta Inflation Attitudes Survey - August 2026
+
+- URL: https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026
+- Published: 11 September 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.
+
+### Agents' summary of business conditions - September 2026
+
+- URL: https://www.bankofengland.co.uk/agents-summary/2026/september-2026
+- Published: 11 September 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.
+
+### Treasury Select Committee on the July Monetary Policy Report
+
+- URL: https://www.bankofengland.co.uk/events/2026/september/tsc-july-monetary-policy-report
+- Published: 08 September 2026 14:15 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Andrew Bailey, Sir Dave Ramsden, Megan Greene, Alan Taylor
+
+### Innovation, financial frictions, and persistent effects of monetary policy
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy
+- Published: 04 September 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Monthly Decision Maker Panel data - August 2026
+
+- URL: https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026
+- Published: 04 September 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.
+
+### Effective interest rates - July 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/july-2026
+- Published: 01 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock
+- Published: 28 August 2026 14:01 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Bank of England to hear the views of the people in Durham about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/august/boe-to-hear-views-of-people-in-durham-about-the-cost-of-living
+- Published: 06 August 2026 09:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in County Durham about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Agency National MPR Briefing - July 2026
+
+- URL: https://www.bankofengland.co.uk/events/2026/august/agencies-monetary-policy-briefing
+- Published: 03 August 2026 14:40 (UK time)
+- Content type: Events
+- Feeds: events
+
+Virtual event
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes
+
+- URL: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026
+- Published: 30 July 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.
+
+### Effective interest rates - June 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/june-2026
+- Published: 29 July 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### It’s all about the role of money - speech by Nathanaël Benjamin
+
+- URL: https://www.bankofengland.co.uk/speech/2026/july/nathanael-benjamin-speech-at-omfif
+- Published: 21 July 2026 11:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at OMFIF Economic and Monetary Policy Institute
+
+### Bank Rate expectations in the UK curve following the war in Iran
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/bank-rate-expectations-uk-curve-following-the-war-in-iran
+- Published: 17 July 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Monitoring risks and safeguard financial stability.
+
+### Bank of England to hear the views of the people in Kent about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/july/boe-to-hear-views-of-people-in-kent-about-the-cost-of-living
+- Published: 08 July 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Kent about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Bank of England to hear the views of the people in Sussex about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/july/boe-to-hear-the-views-of-the-people-in-sussex-about-the-cost-of-living
+- Published: 08 July 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Sussex about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Mixed signals, research findings, and policy judgements − speech by Catherine L. Mann
+
+- URL: https://www.bankofengland.co.uk/speech/2026/july/catherine-l-mann-fireside-chat-at-the-natixis-cib-conference-on-private-debt
+- Published: 02 July 2026 15:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Natixis CIB Private Debt Forum
+
+### Bank of England to hear the views of the people of Devon about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/boe-to-hear-the-views-of-the-people-of-devon-about-the-cost-of-living
+- Published: 30 June 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Devon about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Effective interest rates - May 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/may-2026
+- Published: 29 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### The second Macro Modelling for Monetary Policy Forum: continuing the dialogue in Leeds
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/the-second-macro-modelling-for-monetary-policy-forum
+- Published: 26 June 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+How Bank staff are developing macroeconomic models and engaging with external experts across the UK.
+
+### Bank of England to hear the views of the people of Lancashire about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/boe-to-hear-the-views-of-the-people-of-lancashire-about-the-cost-of-living
+- Published: 25 June 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Lancashire about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Bank of England to hear the views of the people in north Wales about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/boe-to-hear-the-views-of-the-people-in-north-wales-about-the-cost-of-living
+- Published: 23 June 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in north Wales about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Transformative artificial intelligence (AI): implications for structural change and monetary policy
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/transformative-artificial-intelligence
+- Published: 23 June 2026 10:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Hybrid: 23 – 24 June 2026
+
+### Bank of England to hear the views of the people of the West Midlands about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/boe-to-hear-the-views-of-people-in-west-midlands-about-the-cost-of-living
+- Published: 04 June 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in the West Midlands about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+
+- URL: https://www.bankofengland.co.uk/speech/2026/june/megan-greene-speech-at-university-of-derby-business-school
+- Published: 02 June 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at University of Derby Business School
+
+### Effective interest rates - April 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/april-2026
+- Published: 02 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### The MPC's remit and trade-off management
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/the-mpcs-remit-and-trade-off-management
+- Published: 29 May 2026 10:10 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Supply shocks, inflation and output.
+
+### Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-the-reykjavik-2026-economic-conference
+- Published: 29 May 2026 10:10 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Reykjavík Economic Conference 2026, Iceland
+
+### Treasury Select Committee on the April Monetary Policy Report
+
+- URL: https://www.bankofengland.co.uk/events/2026/may/tsc-april-monetary-policy-report
+- Published: 20 May 2026 14:15 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Andrew Bailey, Sarah Breeden, Swati Dhingra and Catherine L Mann
+
+### Bank of England to hear the views of people in Yorkshire about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/may/boe-to-hear-the-views-of-people-in-doncaster-about-the-cost-of-living
+- Published: 13 May 2026 18:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Yorkshire about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Old exposures, new actors: implications for monetary policy of the UK’s external imbalances − speech by Catherine L. Mann
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/catherine-l-mann-speech-at-the-london-school-of-economics
+- Published: 13 May 2026 15:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the London School of Economics and Political Science
+
+### Agency National MPR Briefing - May 2026
+
+- URL: https://www.bankofengland.co.uk/events/2026/may/agencies-monetary-policy-briefing
+- Published: 12 May 2026 10:29 (UK time)
+- Content type: Events
+- Feeds: events
+
+Virtual event
+
+### 6th University of Oxford, Federal Reserve Bank of New York and Bank of England Monetary Economics Conference
+
+- URL: https://www.bankofengland.co.uk/events/2026/september/6th-university-of-oxford-federal-reserve-bony-boe-monetary-economics-conference
+- Published: 11 May 2026 11:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+St Hilda’s College, University of Oxford, 24-25 September 2026
+
+### Effective interest rates - March 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/march-2026
+- Published: 01 May 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### This time it's personal: the rise of dynamic, personalised pricing and what it means for inflation
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/this-time-its-personal-the-rise-of-dynamic-personalised-pricing-and-what-it-means-for-inflation
+- Published: 07 April 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+How personalised pricing is influencing inflation and shaping the future of price-setting for everyone.
+
+### Effective interest rates - February 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/february-2026
+- Published: 30 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release contains average interest rates across deposit or loan accounts with UK banks and building societies, calculated using data on rates and balances.
+
+### Bank of England to hear the views of the people in Gloucestershire about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/march/boe-to-hear-views-of-people-in-gloucester-about-the-cost-of-living
+- Published: 24 March 2026 17:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Gloucestershire about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Bank of England to hear the views of the people in south Wales about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/march/boe-to-hear-views-of-people-in-south-wales-about-the-cost-of-living
+- Published: 19 March 2026 17:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in south Wales about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Analysing the information content of money
+
+- URL: https://www.bankofengland.co.uk/events/2026/march/analysing-the-information-content-of-money
+- Published: 04 March 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+A workshop bringing together central bank and academic experts to discuss how central banks should analyse and communicate the risks around money growth given the experience of the post-pandemic inflation.
+
+### Bank of England to hear the views of people in Somerset about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/february/boe-to-hear-the-views-of-people-in-somerset-about-the-cost-of-living
+- Published: 25 February 2026 17:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Somerset about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Treasury Select Committee on the February Monetary Policy Report
+
+- URL: https://www.bankofengland.co.uk/events/2026/february/tsc-february-monetary-policy-report
+- Published: 24 February 2026 14:15 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Andrew Bailey, Huw Pill, Megan Greene, Alan Taylor
+
+### Huw Pill, Fergal Shortall, Mauricio Armellini: Agency National MPR Briefing – February 2026
+
+- URL: https://www.bankofengland.co.uk/events/2026/february/mpr-national-agency-briefing-february-2026
+- Published: 06 February 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Virtual event
+
+### Bank of England to hear the views of the people in Northamptonshire about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/february/boe-to-hear-views-of-people-in-northampton-about-the-cost-of-living
+- Published: 03 February 2026 17:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in Northamptonshire about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### Bank of England to hear the views of the people in north London about the cost of living
+
+- URL: https://www.bankofengland.co.uk/events/2026/march/boe-to-hear-the-views-of-the-people-in-north-london-about-the-cost-of-living
+- Published: 26 January 2026 17:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England plans to hear from local people in north London about the impact of the cost of living on their finances, as part of our Citizens’ Forum Programme which has been running across the UK since 2018.
+
+### What were the drivers of UK long-term interest rates in 2025?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/what-were-the-drivers-of-uk-long-term-interest-rates-in-2025
+- Published: 23 January 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+And why long-term interest rates matter for the Bank’s policy committees
+
+### Treasury Select Committee on the November Monetary Policy Report
+
+- URL: https://www.bankofengland.co.uk/events/2025/december/tsc-november-monetary-policy-report
+- Published: 09 December 2025 14:15 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Dave Ramsden, Clare Lombardelli, Catherine L Mann and Swati Dhingra
+
+### How do higher interest rates help to lower inflation?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-do-higher-interest-rates-help-to-lower-inflation
+- Published: 11 May 2023 16:02 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Interest rates and inflation are closely linked. Higher rates will help to bring down inflation. But how exactly?
+
+### Why have interest rates gone up in the UK?
+
+- URL: https://www.bankofengland.co.uk/explainers/current-interest-rate
+- Published: 17 December 2021 14:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+War in the Middle East has affected energy prices and pushed up inflation – we have raised Bank Rate to curb any knock-on effects on the rest of the economy
+
+### Inflation and interest rates
+
+- URL: https://www.bankofengland.co.uk/explainers/inflation-and-interest-rates
+- Published: 14 December 2021 16:37 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Find out how changing prices can affect borrowing and saving
+
+### What is inflation?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-inflation
+- Published: 10 December 2021 12:07 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Inflation is when prices rise and how quickly they do so is called the rate of inflation.
+
+### What do I need to know about debt?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-do-i-need-to-know-about-debt
+- Published: 26 November 2018 16:27 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Learn more about debt and see how yours compares to the rest of the UK
+
+### What are interest rates?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-are-interest-rates
+- Published: 08 May 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Interest is the cost of borrowing money or the reward for saving
+
+### What is deflation?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-deflation
+- Published: 07 March 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Falling prices are not always cause for celebration.
+
+### How is the Bank of England independent of the Government?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-is-the-bank-of-england-independent-of-the-government
+- Published: 23 June 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We have specific legal responsibilities for setting policy – for interest rates, for financial stability, and for the regulation of banks and insurance companies.
+
+
+## Financial Stability
+
+The FPC, systemic risk, stress testing, resolution and financial resilience.
+
+### Lighting the shadows: central bank policy transmission through banks and non-banks
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks
+- Published: 23 October 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Physical shocks and economic resilience: a central bank perspective − speech by James Talbot
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/physical-shocks-and-economic-resilience-speech-by-james-talbot
+- Published: 23 October 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the 2nd Annual Conference on Sustainable Finance at the Banco de México on 21 October 2026
+
+### CMORG holds sector-wide cloud outage simulation exercise
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise
+- Published: 09 October 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Cross-Market Operational Resilience Group (CMORG) yesterday (8 October 2026) completed its biennial simulation exercise, known as SIMEX26, focused this year on a global cloud services disruption.
+
+### Financial resilience in an age of repeated shocks -  speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul
+- Published: 08 October 2026 13:15 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Central Bank of Turkey, İstanbul Economic Forum
+
+### Systemic Risk Survey Results - 2026 H2
+
+- URL: https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h2
+- Published: 30 September 2026 10:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+The Systemic Risk Survey is conducted on a biannual basis, to quantify and track market participants’ views of risks to, and their confidence in, the stability of the UK financial system.
+
+### Financial Policy Committee Record – September 2026
+
+- URL: https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026
+- Published: 30 September 2026 10:30 (UK time)
+- Content type: News
+- Feeds: news
+
+Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.
+
+### No bank too big to fail, and none too small to resolve − speech by Ruth Smith
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/ruth-smith-speech-florence-school-of-banking-and-finance-european-university-institute-florence
+- Published: 23 September 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at The Florence School of Banking & Finance Resolution Academy, European University Institute
+
+### Finance, growth and productive investment: what is the FPC assessing in 2026?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/finance-growth-and-productive-investment-what-is-the-fpc-assessing-in-2026
+- Published: 22 September 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Supporting a financial system that drives sustainable economic growth without compromising resilience.
+
+### Gilt edged resilience: strengthening liquidity provision in the repo market
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/gilt-edged-resilience-strengthening-liquidity-provision-in-the-repo-market
+- Published: 17 July 2026 09:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Working together to enhance the resilience of our most important market.
+
+### Treasury Select Committee on the July Financial Stability Report
+
+- URL: https://www.bankofengland.co.uk/events/2026/july/tsc-fsr-hearing
+- Published: 14 July 2026 09:45 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Andrew Bailey, Nathanaël Benjamin, Stephen Blyth and Randall Kroszner
+
+### From Mayfair to the Caymans: mapping and quantifying non-bank default risk in UK markets
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/from-mayfair-to-the-caymans-mapping-quantifying-non-bank-default-risk-uk-markets
+- Published: 09 July 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Monitoring risks and safeguard financial stability.
+
+### Operational resilience in a rapidly changing world − speech by Liz Oakes
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/liz-oakes-speech-and-panel-at-the-kpmg-and-fitch-ratings-london-banking-summit
+- Published: 14 May 2026 14:10 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the KPMG and Fitch Ratings London Banking Summit
+
+### Innovation and Resilience in the BPA Sector – speech by Gareth Truran
+
+- URL: https://www.bankofengland.co.uk/speech/2026/april/gareth-truran-the-23rd-conference-on-bulk-annuities
+- Published: 29 April 2026 09:30 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at 23rd Westminster and City Annual Bulk Annuities Conference
+
+### This time is different? Speech by Sarah Breeden
+
+- URL: https://www.bankofengland.co.uk/speech/2026/april/sarah-breeden-at-the-program-on-international-financial-systems-and-harvard-law-school
+- Published: 17 April 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the HLS-PIFS Symposium on “Building the Financial System of the 21st Century: An Agenda for Europe and the United States”
+
+### Being ready for cross-border resolution: lessons from Credit Suisse and Silicon Valley Bank
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/being-ready-for-cross-border-resolution-lessons-from-credit-suisse-and-silicon-valley-bank
+- Published: 31 March 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+The importance of co-operation when managing cross-border failures.
+
+### Resilience and readiness across the Sterling Monetary Framework
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/resilience-and-readiness-across-the-sterling-monetary-framework
+- Published: 27 March 2026 07:30 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+An update on the Bank of England’s transition to a repo-led, demand-driven system and the recalibration of the Discount Window Facility
+
+### Robustness - speech by Huw Pill
+
+- URL: https://www.bankofengland.co.uk/speech/2026/march/huw-pill-speech-at-national-bank-of-the-republic-of-north-macedonia-and-suerf-conference
+- Published: 24 March 2026 13:30 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Speech at the National Bank of the Republic of North Macedonia and SUERF conference – Central Banking Amid Persistent Global Shifts: Fostering Stability, Innovation, and Resilience, Skopje
+
+### Andrew Bailey, Dave Ramsden, Liz Oakes and Jonathan Hall: Treasury Select Committee on the December Financial Stability Report
+
+- URL: https://www.bankofengland.co.uk/events/2026/january/december-fsr-tsc
+- Published: 20 January 2026 09:45 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Andrew Bailey, Dave Ramsden, Liz Oakes and Jonathan Hall
+
+### Planning to fail – what resolution is and why it matters
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/planning-to-fail-what-resolution-is-and-why-it-matters
+- Published: 09 January 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Creating a resolution regime for the UK's global financial system.
+
+### What is financial stability?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-financial-stability
+- Published: 06 July 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+A stable financial system is one that can provide essential services to households and businesses in good times and bad.
+
+### Climate change: what are the risks to financial stability?
+
+- URL: https://www.bankofengland.co.uk/explainers/climate-change-what-are-the-risks-to-financial-stability
+- Published: 15 November 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Climate change poses risks for the stability of the financial system, particularly for the insurance and banking sectors.
+
+### Is the global financial system any safer than before?
+
+- URL: https://www.bankofengland.co.uk/explainers/is-the-global-financial-system-any-safer-than-before
+- Published: 08 September 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+There is more work to be done, but the global financial system is safe, simpler and fairer today than it was a decade ago.
+
+
+## Prudential Regulation
+
+PRA rules and supervision of banks, building societies, credit unions and insurers.
+
+### PS20/26 – Amendments to the Large Exposures Framework – Part 2
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/amendments-to-the-large-exposures-framework-part-2-policy-statement
+- Published: 10 November 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 20/26
+
+### Regulators explore credit union reforms to support growth, innovation and better outcomes for members
+
+- URL: https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members
+- Published: 03 November 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.
+
+### DP2/26 – Credit Unions: Supporting sustainable growth and resilience
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/credit-unions-supporting-sustainable-growth-and-resilience-discussion-paper
+- Published: 03 November 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Discussion paper 2/26
+
+### CP15/26 – Northern Ireland Credit Unions: Implementing legislative changes
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/nicu-implementing-legislative-changes-consultation-paper
+- Published: 03 November 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 15/26
+
+### PRA Regulatory Digest – October 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/october-2026
+- Published: 02 November 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### Credit union quarterly statistics - 2026 Q2
+
+- URL: https://www.bankofengland.co.uk/statistics/credit-union/2026/2026-q2
+- Published: 30 October 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The credit union quarterly statistics are statistics aggregated from the quarterly (CQ) returns submitted by authorised credit unions in the United Kingdom.
+
+### The PRA’s second decade − speech by Katharine Braddick
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/katharine-braddick-mansion-house-city-regulators-dinner-london
+- Published: 22 October 2026 21:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Mansion House
+
+### CP14/26 – Review of the Senior Managers and Certification Regime (SM&CR) – Phase 2
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/review-of-the-smcr-phase-two-consultation-paper
+- Published: 22 October 2026 21:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 14/26
+
+### SS2/26 – High loan to income lending
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/high-loan-to-income-lending-supervisory-statement
+- Published: 14 October 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Supervisory statement 2/26
+
+### PS19/26 – High loan to income lending
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/high-loan-to-income-lending-policy-statement
+- Published: 14 October 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+PRA policy statement 19/26 | FCA policy statement 26/20
+
+### Regulatory thresholds set to shift to automatic increases
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases
+- Published: 07 October 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Proportionality is set to be improved for firms as over 100 regulatory thresholds could be automatically increased periodically.
+
+### CP13/26 –  The Prudential Regulation Authority’s automatic thresholds indexation framework
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/updating-regulatory-thresholds-consultation-paper
+- Published: 07 October 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 13/26
+
+### More than a change of address: Reflections from previous part VIII transfers − speech by Manuel Sales
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/manuel-sales-speech-at-the-association-of-financial-mutuals-annual-conference
+- Published: 05 October 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Association of Financial Mutuals Annual Conference 2026
+
+### Appointment of members of the Enforcement Decision Making Committee (EDMC)
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc
+- Published: 02 October 2026 09:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.
+
+### PRA Regulatory Digest – September 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/september-2026
+- Published: 01 October 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)'
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/letter/2026/thematic-feedback-on-accounting-for-ifrs-9-ecl
+- Published: 30 September 2026 15:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Letter to chief financial officers of selected PRA-regulated deposit-takers which provides thematic feedback from the PRA’s review of written auditor reports received in 2026 covering IFRS 9 expected credit loss accounting (ECL) and accounting for climate risk.
+
+### Banking sector regulatory capital - 2026 Q2
+
+- URL: https://www.bankofengland.co.uk/statistics/banking-sector-regulatory-capital/2026/2026-q2
+- Published: 30 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This quarterly statistical release shows levels of capital and risk-weighted assets for the UK banking sector. It includes breakdowns of the movements in different tiers of capital and risk exposure types, and overall capital ratios.
+
+### The PRA held a captive insurance industry roundtable
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/august/pra-holds-captive-insurance-industry-roundtable
+- Published: 25 September 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+On 17 September 2026, the PRA hosted a roundtable in relation to CP11/26 – A tailored regime for captive insurance.
+
+### The Bank of England’s fees regime for recognised payment systems and specified service providers supervision 2026/27
+
+- URL: https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27
+- Published: 22 September 2026 12:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Consultation paper
+
+### Credit union quarterly statistics - 2026 Q1
+
+- URL: https://www.bankofengland.co.uk/statistics/credit-union/2026/2026-q1
+- Published: 28 August 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The credit union quarterly statistics are statistics aggregated from the quarterly (CQ) returns submitted by authorised credit unions in the United Kingdom.
+
+### PRA Regulatory Digest – July 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/july-2026
+- Published: 03 August 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)
+
+- URL: https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc
+- Published: 03 August 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.
+
+### Credit union annual statistics – 2025
+
+- URL: https://www.bankofengland.co.uk/statistics/credit-union/2025/2025
+- Published: 31 July 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The credit union annual statistics are statistics aggregated from the annual (CY) returns submitted by authorised credit unions in the United Kingdom.
+
+### PS18/26 – Solvency UK: Post-implementation reporting and disclosure amendments and Own Funds permissions update
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/solvency-uk-policy-statement
+- Published: 29 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 18/26
+
+### LIAF02/26 – Low Impact Amendments Finalisation July 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/low-impact-amendments-finalisation-july-2026
+- Published: 29 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Low Impact Amendments Finalisation July 2026
+
+### LIAC02/26 – Low Impact Amendments Consultation July 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/low-impact-amendments-consultation-july-2026
+- Published: 29 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Low Impact Amendments Consultation July 2026
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers
+
+- URL: https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers
+- Published: 22 July 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.
+
+### CP12/26 – Insurance friendly societies, amalgamations and transfers
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/insurance-friendly-societies-amalgamations-and-transfers-consultation-paper
+- Published: 22 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 12/26
+
+### PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data
+
+- URL: https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting
+- Published: 20 July 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Prudential Regulation Authority (PRA) has imposed a financial penalty of £4,165,000 on HDI Global SE in connection with the submission of incorrect data to the PRA.
+
+### PS16/26 – PRA rule changes to accommodate HM Treasury’s Overseas Prudential Requirements Regime
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/pra-rule-changes-for-hmt-overseas-prudential-requirements-regime
+- Published: 14 July 2026 15:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 16/26
+
+### PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness
+
+- URL: https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness
+- Published: 14 July 2026 15:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Innovative new proposals aim to establish the UK as a centre for the fast-growing captive insurance market.
+
+### CP11/26 – A tailored regime for captive insurance
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/a-tailored-regime-for-captive-insurance-consultation-paper
+- Published: 14 July 2026 15:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 11/26
+
+### CP10/26 – Ring-fenced bodies: Changes to the continuity of provision of services rules
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/ring-fenced-bodies-consultation-paper
+- Published: 14 July 2026 15:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 10/26
+
+### PS17/26 – Regulated fees and levies: Rates proposals 2026/27
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/regulated-fees-and-levies-rates-proposals-2026-27-policy-statement
+- Published: 08 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 17/26
+
+### Prudential Regulation Authority statement on enhancing the usability and releasability of capital buffers
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/pra-statement-on-usability-and-releasability-of-capital-buffers
+- Published: 07 July 2026 10:30 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA is clarifying that it could release other systemically important institution (O-SII) buffers in the event of systemic stress.
+
+### PRA Regulatory Digest  – June 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/june-2026
+- Published: 01 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### FSCS Protected Deposit Reporting Requirements
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/fscs-protected-deposit-reporting-requirements
+- Published: 01 July 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA has recently received a number of queries from firms relating to the identification, marking and reporting of FSCS protected deposits.
+
+### Banking sector regulatory capital - 2026 Q1
+
+- URL: https://www.bankofengland.co.uk/statistics/banking-sector-regulatory-capital/2026/2026-q1
+- Published: 30 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This quarterly statistical release shows levels of capital and risk-weighted assets for the UK banking sector. It includes breakdowns of the movements in different tiers of capital and risk exposure types, and overall capital ratios.
+
+### Prudential Regulation Authority’s (PRA) Cost Benefit Analysis Panel Annual Report 2025/26
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/cba-annual-report-2025-26
+- Published: 25 June 2026 12:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The Cost Benefit Analysis (CBA) Panel is a statutory panel established to provide advice to the PRA and the Bank on the preparation of CBA. The Panel provides independent input to the PRA’s and the Bank’s CBAs, helping to support increased transparency and scrutiny of their policymaking. This report covers the period from 1 March 2025 to 28 February 2026.
+
+### Prudential Regulation Authority Annual Report 2025/26
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-annual-report-2025-26
+- Published: 25 June 2026 12:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The Bank of England and the Prudential Regulation Authority (PRA) have published their annual reports. The PRA report includes information on our activities for the year ended 28 February 2026.
+
+### Prescribed Persons (Reports on Disclosures of Information) Regulations 2017 – Annual Report 2025/26
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/prescribed-persons-regulations-2017-annual-report-2025-26
+- Published: 25 June 2026 12:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The Bank of England and PRA are both Prescribed Persons as defined by Parliament under The Public Interest Disclosure (Prescribed Persons) Order 2014.
+
+### Enforcement Decision Making Committee Report 2025/26
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/enforcement-decision-making-committee-report-2025-26
+- Published: 25 June 2026 12:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+This Enforcement Decision Making Committee (EDMC) annual report covers the period of 1 March 2025 to 28 February 2026.
+
+### Accountability of the Prudential Regulation Authority for delivery of the Secondary Competitiveness and Growth Objective (SCGO)
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-secondary-competitiveness-and-growth-objectives-report-2025-26
+- Published: 25 June 2026 12:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Appendix to the Prudential Regulation Authority Annual Report 2025/26
+
+### A sea change in regulatory investigations and enforcement − speech by David Chaplin
+
+- URL: https://www.bankofengland.co.uk/speech/2026/june/david-chaplin-speech-given-at-the-financial-law-and-regulation-conference
+- Published: 25 June 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the 5th Conference on Financial Law and Regulation, University of Leeds School of Law, 24 June 2026
+
+### CP9/26 – Basel 3.1: Adjustments to the internal model approach (IMA) for market risk
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/basel-3-1-adjustments-to-the-internal-model-approach-for-market-risk-consultation-paper
+- Published: 19 June 2026 07:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 9/26
+
+### PRA and FCA Dual Regulated Variations of Permission (VoP) Industry Seminar
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/variation-of-permission-seminar
+- Published: 17 June 2026 09:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+An in-person seminar for dual-regulated firms and advisers, providing practical insight into the VoP assessment process and an opportunity to share feedback to help inform ongoing development of the process.
+
+### PRA Regulatory Digest  – May 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/may-2026
+- Published: 01 June 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### PS15/26 – Pillar 2A review – Phase 1
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/pillar-2a-review-phase-1-policy-statement
+- Published: 28 May 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 15/26
+
+### PS14/26 – CRR Definitions: restatement in PRA Rulebook
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/crr-definitions-restatement-in-pra-rulebook-policy-statement
+- Published: 27 May 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 14/26
+
+### PS13/26 – Insurance third-country branches: policy implementation and other updates
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/insurance-third-country-branches-policy-statement
+- Published: 21 May 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 13/26
+
+### Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on the prudential treatment of tokenised assets, stablecoins, and other cryptoasset exposures
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/letter/2026/tokenised-assets-stablecoins-and-other-cryptoasset-exposures
+- Published: 18 May 2026 09:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Letter to Chief Executive Officers of all banks and designated investment firms.
+
+### Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on reaffirming the PRA's position and clarifying expectations on innovations in the use of deposits, e-money and stablecoins
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins
+- Published: 18 May 2026 09:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Letter to Chief Executive Officers of all banks and designated investment firms.
+
+### Results of the firm feedback survey 2025
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/results-of-the-firm-feedback-survey-2025
+- Published: 15 May 2026 09:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The annual firm feedback survey gives PRA-authorised firms the opportunity to comment on their experience of being supervised by the PRA.
+
+### Clinical supervision − speech by Sam Woods
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/sam-woods-speech-at-the-henry-thornton-lecture-bayes-business-school
+- Published: 12 May 2026 18:30 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+The Henry Thornton Lecture given at Bayes Business School
+
+### PRA Regulatory Digest – April 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/april-2026
+- Published: 01 May 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### Credit union quarterly statistics - 2025 Q4
+
+- URL: https://www.bankofengland.co.uk/statistics/credit-union/2025/2025-q4
+- Published: 30 April 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The credit union quarterly statistics are statistics aggregated from the quarterly (CQ) returns submitted by authorised credit unions in the United Kingdom.
+
+### SoP14/24 – The Prudential Regulation Authority’s approach to cost benefit analysis
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-approach-to-cost-benefit-analysis-statement-of-policy
+- Published: 29 April 2026 10:37 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Statement of Policy 14/24
+
+### Prudential Regulation Authority’s statement in relation to HM Treasury’s Risk Transformation Regulations consultation response – April 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-statement-hmt-risk-transformation-reg-response
+- Published: 29 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA has committed to consulting on a new insurance captives regime in Summer 2026.
+
+### The PRA’s Standard Cost Model
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-standard-cost-model
+- Published: 29 April 2026 09:30 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Technical Note
+
+### SoP14/24 – The Prudential Regulation Authority’s approach to cost benefit analysis
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/sop1424-pra-approach-to-cost-benefit-analysis-statement-of-policy
+- Published: 29 April 2026 09:30 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Statement of Policy 14/24
+
+### CP8/26 – Funded reinsurance
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/funded-reinsurance-consultation-paper
+- Published: 29 April 2026 09:30 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 8/26
+
+### Maintaining momentum: progress in mutual supervision − speech by Charlotte Gerken
+
+- URL: https://www.bankofengland.co.uk/speech/2026/april/charlotte-gerken-speech-and-panel-at-the-building-societies-annual-conference
+- Published: 28 April 2026 17:15 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Building Societies Association
+
+### Building a banking regime for the future - speech by David Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/april/david-bailey-speech-jp-morgan-uk-banks-asset-and-liability-mgmt-conference
+- Published: 28 April 2026 11:45 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at JPM UK Banks ALM Conference
+
+### LIAF01/26 – Low Impact Amendments Finalisation April 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/low-impact-amendments-finalisation-april-2026
+- Published: 23 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Low Impact Amendments Finalisation 2026
+
+### LIAC01/26 – Low Impact Amendments Consultation April 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/low-impact-amendments-consultation-april-2026
+- Published: 23 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Low Impact Amendments Consultation April 2026
+
+### PS12/26 – Review of the Senior Managers and Certification Regime (SM&CR) − Phase 1
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/review-of-the-smcr-phase-1-policy-statement
+- Published: 22 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 12/26
+
+### Prudential Regulation Authority Business Plan 2026/27
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-business-plan-2026-27
+- Published: 17 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The 2026/27 Business Plan sets out the workplan for each of our strategic priorities and our strategy to advance our primary and secondary objectives. This year’s business plan confirms the PRA’s continued focus on safety and soundness and policyholder protection, alongside a proportionate and efficient approach to regulation.
+
+### CP7/26 – Regulated fees and levies: Rates proposals 2026/27
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/regulated-fees-and-levies-rates-proposals-2026-27-consultation-paper
+- Published: 17 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 7/26
+
+### Mind the gap: a UK microprudential perspective on general insurance protection gaps
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/mind-the-gap-uk-microprudential-perspective-general-insurance-protection-gaps
+- Published: 16 April 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Understanding the PRA’s role in insurance affordability and availability
+
+### PRA Regulatory Digest – March 2026
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/march-2026
+- Published: 01 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.
+
+### CP6/26 – High loan to income lending
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/high-loan-to-income-lending-consultation-paper
+- Published: 01 April 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Consultation paper 6/26
+
+### PS8/26 – Financial Services Compensation Scheme – Management Expenses Levy Limit (MELL) 2026/27
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-policy-statement
+- Published: 31 March 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+Policy statement 8/26
+
+### Banking sector regulatory capital - 2025 Q4
+
+- URL: https://www.bankofengland.co.uk/statistics/banking-sector-regulatory-capital/2025/2025-q4
+- Published: 31 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This quarterly statistical release shows levels of capital and risk-weighted assets for the UK banking sector. It includes breakdowns of the movements in different tiers of capital and risk exposure types, and overall capital ratios.
+
+### Sam Woods, David Bailey, Antony Jenkins and Marjorie Ngwenya: Treasury Select Committee hearing on the work of the Prudential Regulation Authority
+
+- URL: https://www.bankofengland.co.uk/events/2026/january/tsc-hearing-on-pra-work
+- Published: 21 January 2026 14:15 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Sam Woods, David Bailey, Antony Jenkins and Marjorie Ngwenya
+
+### What is the FSCS and what is the new deposit protection limit?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-the-financial-services-compensation-scheme
+- Published: 02 April 2025 12:40 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Safeguarding your money when financial firms fail
+
+### What happened to Silicon Valley Bank UK?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-happened-to-silicon-valley-bank-uk
+- Published: 24 March 2023 10:05 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+It is our job to make sure a failing bank does not cause widespread economic harm or cost taxpayers money
+
+### What is Islamic finance?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-islamic-finance
+- Published: 21 September 2020 12:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Money management and business dealings that are compatible with Islam
+
+### What is capital?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-capital
+- Published: 14 June 2019 14:27 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+The financial resources a bank has that act as a cushion against unexpected losses
+
+### What is the Prudential Regulation Authority (PRA)?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-the-prudential-regulation-authority-pra
+- Published: 10 October 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+The PRA supervises about 1,300 financial institutions, including banks and insurance companies
+
+### What does insurance cover?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-does-insurance-cover
+- Published: 13 June 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Insurance provides protection against financial loss for people and companies.
+
+### Why is competition important in banking?
+
+- URL: https://www.bankofengland.co.uk/explainers/why-is-competition-important-for-banks
+- Published: 31 January 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We aim to keep banks safe, but of a bit of healthy competition can be a good thing for consumers.
+
+### What risks do banks take?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-risks-do-banks-take
+- Published: 18 January 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+The three largest risks banks take are credit risk, market risk and operational risk.
+
+### Why do we regulate banks?
+
+- URL: https://www.bankofengland.co.uk/explainers/why-do-we-regulate-banks
+- Published: 03 January 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We want to keep the financial system stable and individual firms safe
+
+
+## Technology and AI
+
+Artificial intelligence, cyber resilience, data and technology.
+
+### Data and analytics transformation at the Bank of England to enable, equip and empower − speech by Ben Martin
+
+- URL: https://www.bankofengland.co.uk/speech/2026/november/ben-martin-speech-at-data-ai-conference-europe-2026
+- Published: 04 November 2026 11:35 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Speech to be given at DAMA Data and AI Conference Europe 2026
+
+### Artificial intelligence in UK financial services - 2026
+
+- URL: https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026
+- Published: 26 October 2026 10:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+The Bank of England and Financial Conduct Authority conducted a fourth survey of artificial intelligence and machine learning in UK financial services.
+
+### Frontier AI and the question of governance
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/frontier-ai-and-the-question-of-governance
+- Published: 30 September 2026 10:30 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+To realise the benefits of artificial intelligence but also mitigate any risks, humans must retain the ability to intervene and set boundaries.
+
+### Frontier AI: Harness engineering
+
+- URL: https://www.bankofengland.co.uk/research/fintech/frontier-ai-information-sharing-forum/frontier-ai-harness-engineering
+- Published: 02 September 2026 12:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This article outlines the practical considerations involved in designing harnesses that can apply frontier AI capability to cyber defence in a controlled and usable way.
+
+### How will AI affect the economy?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-will-ai-affect-the-economy
+- Published: 01 September 2026 09:43 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Artificial intelligence could improve efficiency and productivity... but it could also create new risks
+
+### Artificial Intelligence Consortium minutes – June 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026
+- Published: 05 August 2026 11:51 (UK time)
+- Content type: News
+- Feeds: news
+
+The Artificial Intelligence Consortium (AIC) aims to provide a platform for public-private engagement to further dialogue on the capabilities, development, deployment, use, and potential risks of artificial intelligence (AI) in UK financial services.
+
+### Letter from the Governor to the Daily Mail
+
+- URL: https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-the-daily-mail
+- Published: 23 July 2026 17:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Letter from Governor Andrew Bailey to the Daily Mail on the subject of AI and cyber-attacks
+
+### Can AI make cutlery? -  speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-cutlers-feast-sheffield
+- Published: 21 May 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the 389th Cutlers’ Feast, Cutlers’ Hall, Sheffield
+
+### From magnifying glass to drone: using AI to spot reserving risks faster
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2025/from-magnifying-glass-to-drone-using-ai-to-spot-reserving-risks-faster
+- Published: 05 December 2025 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Using the latest tools to scan the market landscape
+
+### Is my money safe from cyber-attacks?
+
+- URL: https://www.bankofengland.co.uk/explainers/is-my-money-safe-from-cyber-attacks
+- Published: 25 June 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Cyber-attacks are becoming more frequent and advanced. Here's what you need to know.
+
+
+## Payments and Digital Money
+
+RTGS/CHAPS, payments innovation, digital pound, stablecoins and tokenisation.
+
+### The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC
+
+- URL: https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release
+- Published: 13 November 2026 09:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Joint media release
+
+### Project Meridian FX APAC: Technical Report
+
+- URL: https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-technical-report
+- Published: 13 November 2026 09:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This page summarises the technical findings of Project Meridian FX APAC, a joint experiment which explored how synchronisation can support PvP FX transactions between the Bank of England, Monetary Authority of Singapore and Bank of Thailand. It sets out the experiment’s objectives, design and findings.
+
+### Project Meridian FX APAC: Policy Report
+
+- URL: https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-policy-report
+- Published: 13 November 2026 09:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This page summarises the policy findings of Project Meridian FX APAC, a joint experiment on synchronisation in FX between the Bank of England, Monetary Authority of Singapore and Bank of Thailand, with the Reserve Bank of Australia and Bangko Sentral ng Pilipinas as observers. It sets out the key policy conclusions from the experiment and considerations for a live service.
+
+### Project Meridian FX APAC: Executive summary and introduction
+
+- URL: https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-executive-summary-and-introduction
+- Published: 13 November 2026 09:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This page explains why the project matters, what was tested, the main insights, and how the technical and policy reports should be read together.
+
+### UK Retail Payments Infrastructure: moving from vision to design − speech by Victoria Cleland
+
+- URL: https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london
+- Published: 11 November 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the FTT Fintech Festival
+
+### Summary of the RTGS CHAPS Industry Forum - 13 October 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026
+- Published: 04 November 2026 14:51 (UK time)
+- Content type: News
+- Feeds: news
+
+The second meeting of the RTGS CHAPS Industry Forum
+
+### Response to the RPIB consultation on the Design of the Future Retail Payments Infrastructure
+
+- URL: https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation
+- Published: 04 November 2026 10:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Consultation Response
+
+### Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral
+
+- URL: https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral
+- Published: 29 October 2026 10:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Consultation paper
+
+### Bank of England sets out approach to tokenised collateral in central clearing
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing
+- Published: 29 October 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England has today launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral.
+
+### New horizons: the legal and commercial frontier of digital assets − speech by Sasha Mills
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/sasha-mills-speech-at-hogan-lovells-and-global-digital-finance-digital-assets-summit
+- Published: 01 October 2026 14:10 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Hogan Lovells and Global Digital Finance Digital Assets Summit
+
+### Bank of England ‘Future of Money’ conference
+
+- URL: https://www.bankofengland.co.uk/events/2026/october/boe-future-of-money-conference-in-celebration-of-charles-goodhart
+- Published: 01 October 2026 09:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+In celebration of Charles Goodhart
+
+### Money and power: lessons from history for stablecoins and US dollar dominance – speech by Carolyn Wilkins
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/carolyn-wilkins-speech-at-queens-university-belfast
+- Published: 15 September 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Queen’s University, Belfast
+
+### Delay to the November 2026 RTGS standards release
+
+- URL: https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release
+- Published: 27 August 2026 14:16 (UK time)
+- Content type: News
+- Feeds: news
+
+Bank of England statement
+
+### What is tokenisation?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-tokenisation
+- Published: 15 July 2026 09:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+A new way of recording financial assets that could make transactions faster and easier
+
+### What are payments and how might they change?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-are-payments-and-how-might-they-change
+- Published: 25 June 2026 10:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We want to make transferring money even safer and even more reliable
+
+### The Importance of Choice in Payments − speech by Victoria Cleland
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/victoria-cleland-fireside-chat-at-the-currency-research-banknote-conference
+- Published: 14 May 2026 14:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Banknote Conference, Washington DC
+
+### Meridian Securities 10 December 2025 Webinar Recording
+
+- URL: https://www.bankofengland.co.uk/events/2025/december/meridian-securities
+- Published: 10 December 2025 11:55 (UK time)
+- Content type: Events
+- Feeds: events
+
+Webinar recording 10 December 2025
+
+### What are stablecoins and how do they work?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-are-stablecoins-and-how-do-they-work
+- Published: 06 November 2023 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Digital assets that are more reliable than cryptocurrencies because their value is linked to other, stable ones
+
+### What is the digital pound?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-the-digital-pound
+- Published: 07 February 2023 09:55 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+The digital pound would be a new type of money issued by the Bank of England alongside cash.
+
+### What is CBDC?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-a-central-bank-digital-currency
+- Published: 28 April 2022 12:49 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+CBDC stands for central bank digital currency. It’s digital money a country’s central bank can issue alongside cash. If we introduced one, we’d call it the digital pound.
+
+### How has money changed over time?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-has-money-changed-over-time
+- Published: 19 December 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+How we pay for things, and even the concept of paying, have developed over 11,000 years.
+
+### What are cryptoassets (cryptocurrencies)?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-are-cryptocurrencies
+- Published: 03 October 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+A way of storing value electronically outside of centralised systems and away from regulators.
+
+### How do card payments work?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-do-card-payments-work
+- Published: 25 May 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Whether you’re buying groceries or a laptop, paying by card only takes seconds. Here’s how the money gets from A to B.
+
+### Financial market infrastructures – what happens when you pay?
+
+- URL: https://www.bankofengland.co.uk/explainers/financial-market-infrastructures-what-happens-when-you-pay
+- Published: 20 February 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+There’s a network of systems that make payments possible. These are known as financial market infrastructures – or FMIs for short.
+
+### What is money?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-money
+- Published: 08 November 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Feathers, shells and even teeth … money has taken many forms over time
+
+### Why does money depend on trust?
+
+- URL: https://www.bankofengland.co.uk/explainers/why-does-money-depend-on-trust
+- Published: 26 May 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+In the past you could exchange banknotes for gold. Today the value of money comes from trust.
+
+
+## Markets and Operations
+
+Sterling markets, the Bank's balance sheet, reserves, SONIA, gilts and the Weekly Report.
+
+### Bank of England Weekly Report 11 November 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/11-november-2026
+- Published: 12 November 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Price efficiency in securities lending
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending
+- Published: 06 November 2026 14:01 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### The aggregate and distributional implications of credit shocks on housing and rental markets
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets
+- Published: 06 November 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Market Participants Survey results - November 2026
+
+- URL: https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-november-2026
+- Published: 06 November 2026 12:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Expectations for monetary policy from experts in UK rates markets.
+
+### Bank of England Weekly Report 4 November 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/4-november-2026
+- Published: 05 November 2026 15:17 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### UK International Reserves - October 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/october-2026
+- Published: 04 November 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### Bank of England Weekly Report 28 October 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/28-october-2026
+- Published: 29 October 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Minutes of the Securities Lending Committee meeting – September 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026
+- Published: 22 October 2026 16:35 (UK time)
+- Content type: News
+- Feeds: news
+
+The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.
+
+### Bank of England Weekly Report 21 October 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/21-october-2026
+- Published: 22 October 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Bank of England Weekly Report 14 October 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026
+- Published: 15 October 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026
+- Published: 15 October 2026 09:27 (UK time)
+- Content type: News
+- Feeds: news
+
+The SONIA Stakeholder Advisory Group supports the Bank’s administration of SONIA by providing advice and technical input to the Bank and the SONIA Oversight Committee
+
+### Minutes of the Money Market Committee meeting – September 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026
+- Published: 13 October 2026 16:04 (UK time)
+- Content type: News
+- Feeds: news
+
+The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.
+
+### Bank of England Weekly Report 7 October 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/7-october-2026
+- Published: 08 October 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26
+- Published: 07 October 2026 14:36 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England provides the Secretariat to the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.
+
+### Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026
+- Published: 07 October 2026 10:49 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.
+
+### Minutes of the London FXJSC Main Committee Meeting – 24 June 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026
+- Published: 07 October 2026 10:08 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.
+
+### Minutes of the UK Money Markets Code Sub-Committee – September 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026
+- Published: 06 October 2026 14:07 (UK time)
+- Content type: News
+- Feeds: news
+
+The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.
+
+### Consolidated balance sheet - 30 June 2025
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025
+- Published: 06 October 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.
+
+### UK International Reserves - September 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/september-2026
+- Published: 05 October 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### Bank of England Weekly Report 30 September 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026
+- Published: 01 October 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Bank of England Weekly Report 23 September 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026
+- Published: 24 September 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Foreign Currency Reserves 2026 – Market Notice 22 September 2026
+
+- URL: https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026
+- Published: 22 September 2026 16:30 (UK time)
+- Content type: News
+- Feeds: news
+
+Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement
+
+### Foreign Currency Reserves 2026 – Market Notice 21 September 2026
+
+- URL: https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026
+- Published: 21 September 2026 12:30 (UK time)
+- Content type: News
+- Feeds: news
+
+Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement
+
+### Market Participants Survey results – September 2026
+
+- URL: https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026
+- Published: 18 September 2026 12:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Expectations for monetary policy from experts in UK rates markets.
+
+### Bank of England Weekly Report 16 September 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026
+- Published: 17 September 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Minutes of the Securities Lending Committee meeting – March 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026
+- Published: 15 September 2026 09:09 (UK time)
+- Content type: News
+- Feeds: news
+
+The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.
+
+### Bank of England Weekly Report 9 September 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/9-september-2026
+- Published: 10 September 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Bank of England Weekly Report 2 September 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026
+- Published: 03 September 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### UK International Reserves - August 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/august-2026
+- Published: 03 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### A welfare analysis of the central bank balance sheet
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet
+- Published: 28 August 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Bank of England Weekly Report 26 August 2026
+
+- URL: https://www.bankofengland.co.uk/weekly-report/2026/26-august-2026
+- Published: 27 August 2026 15:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.
+
+### Results of the Semi-Annual FX Turnover Surveys in April 2026
+
+- URL: https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026
+- Published: 11 August 2026 14:00 (UK time)
+- Content type: News
+- Feeds: news
+
+In April 2026, 25 financial institutions active in the UK foreign exchange (FX) market participated in the semi-annual turnover survey for the Foreign Exchange Joint Standing Committee (FXJSC). The survey results are summarised below. Detailed tables for the April 2026 reporting period, linked below, are available separately.
+
+### UK International Reserves - July 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/july-2026
+- Published: 05 August 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### UK International Reserves - June 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/june-2026
+- Published: 03 July 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### UK International Reserves - May 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/may-2026
+- Published: 03 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### Modernising money and markets − speech by Sarah Breeden
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/sarah-breeden-speech-at-city-week-the-future-of-money-in-a-digital-world
+- Published: 19 May 2026 09:10 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at City Week 2026, London
+
+### UK International Reserves - April 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/april-2026
+- Published: 06 May 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### UK International Reserves - March 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/march-2026
+- Published: 07 April 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+### UK International Reserves - February 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/uk-international-reserves/2026/february-2026
+- Published: 04 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Bank of England manages the UK’s official reserves on behalf of the Government. We publish data on UK holdings of international reserves and foreign currency liquidity once a month.
+
+
+## Banknotes
+
+Banknotes, cash and the note circulation scheme.
+
+### Banknote imagery advisory group minutes – 15 July 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july
+- Published: 16 October 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Meeting held 15 July 2026
+
+### The importance of public engagement in maintaining trust in banknotes - Speech by Victoria Cleland
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/victoria-cleland-intergraf-currency-identity-conference-demark
+- Published: 15 October 2026 08:50 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Speech at the Intergraf Currency & Identity Conference, Denmark
+
+### Bank of England announces the four animals that will feature on our next series of banknotes
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes
+- Published: 08 October 2026 00:01 (UK time)
+- Content type: News
+- Feeds: news
+
+The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will represent UK wildlife and feature as the central images on our next series of banknotes.
+
+### Scottish and Northern Ireland Banknote Issuance Annual Report 2026
+
+- URL: https://www.bankofengland.co.uk/banknotes/scottish-and-northern-ireland-banknotes/2026-annual-report
+- Published: 01 October 2026 14:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Report on the Bank of England’s work under the Scottish and Northern Ireland Banknote Regulations 2009.
+
+### The promise to pay: what backs banknotes?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/the-promise-to-pay-what-backs-banknotes
+- Published: 17 September 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+The Bank of England’s new strategy for backing our banknotes
+
+### How much is a banknote worth?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-much-is-a-banknote-worth
+- Published: 27 September 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+While rare serial numbers often generate interest, banknotes will only ever be worth their face value to us.
+
+### How do we know how much money to print?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-do-we-know-how-much-money-to-print
+- Published: 19 December 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We mostly print money to replace old, worn-out banknotes. But it’s also up to demand.
+
+### Why are new banknotes made of polymer?
+
+- URL: https://www.bankofengland.co.uk/explainers/why-are-new-banknotes-made-of-polymer
+- Published: 22 November 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Our new banknotes are made of polymer because it is cleaner, safer and stronger than paper.
+
+
+## Climate and Sustainability
+
+Climate-related financial risk and sustainability.
+
+### 5th Annual Workshop of the ESCB Research Cluster on Climate Change
+
+- URL: https://www.bankofengland.co.uk/events/2026/october/5th-annual-workshop-of-the-escb-research-cluster-on-climate-change
+- Published: 21 October 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England and the National Bank of Slovakia are hosting the fifth Annual Workshop of the European System of Central Banks (ESCB) Research Cluster on Climate Change, bringing together researchers from central banks to discuss the economic and financial implications of climate change and the transition to a low-carbon economy.
+
+### Running on empty: Climate risks and the fragility of global energy and food supply chains − speech by Swati Dhingra
+
+- URL: https://www.bankofengland.co.uk/speech/2026/june/swati-dhingra-panel-at-the-world-resources-institute-workshop
+- Published: 24 June 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the World Resources Institute, London
+
+### How is the Bank of England responding to climate change?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-is-the-bank-of-england-responding-to-climate-change
+- Published: 14 February 2022 15:32 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We help the UK to manage the risks that climate change brings and we support its move to net-zero.
+
+
+## Statistics and Data
+
+Official statistics, surveys and data releases.
+
+### Money and Credit - September 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/september-2026
+- Published: 29 October 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - September 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/september-2026
+- Published: 27 October 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Credit Conditions Survey - 2026 Q3
+
+- URL: https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q3
+- Published: 08 October 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This quarterly survey of banks and building societies is aimed at improving our understanding of trends and developments in credit conditions.
+
+### Bank Liabilities Survey - 2026 Q3
+
+- URL: https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q3
+- Published: 08 October 2026 09:30 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+This quarterly survey of banks and building societies is aimed at improving our understanding of the role of lenders’ liabilities and capital in driving credit and monetary conditions.
+
+### Money and Credit - August 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/august-2026
+- Published: 29 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - August 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/august-2026
+- Published: 25 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Consolidated worldwide claims - 2026 Q2
+
+- URL: https://www.bankofengland.co.uk/statistics/consolidated-worldwide-claims/2026/2026-q2
+- Published: 18 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release covers the consolidated worldwide external claims and unused commitments of UK-owned monetary financial institutions (excluding central banks) and their branches and subsidiaries worldwide.
+
+### Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting
+
+- URL: https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08
+- Published: 15 September 2026 10:21 (UK time)
+- Content type: News
+- Feeds: news
+
+Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder
+
+### Mortgage Lenders and Administrators Statistics - 2026 Q2
+
+- URL: https://www.bankofengland.co.uk/statistics/mortgage-lenders-and-administrators/2026/2026-q2
+- Published: 08 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Mortgage Lenders and Administrators Return (MLAR) is a quarterly statistical release aggregated from data on mortgage lending activities provided by around 340 regulated mortgage lenders and administrators.
+
+### External business of Monetary Financial Institutions operating in the UK - 2026 Q2
+
+- URL: https://www.bankofengland.co.uk/statistics/external-business-uk-mfi/2026/2026-q2
+- Published: 04 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release covers claims on and liabilities to other countries by UK-resident banks and building societies (monetary financial institutions).
+
+### Money and Credit - July 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/july-2026
+- Published: 01 September 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - July 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/july-2026
+- Published: 27 August 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Green notice 2026/02
+
+- URL: https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02
+- Published: 06 August 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Green notices cover significant and/or significant proposals for Bank of England reporting. If any of these proposals are finalised and are to be implemented, they will appear in a statistical notice.
+
+### Money and Credit - June 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/june-2026
+- Published: 29 July 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - June 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/june-2026
+- Published: 27 July 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Money and Credit - May 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/may-2026
+- Published: 29 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - May 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/may-2026
+- Published: 25 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Consolidated worldwide claims - 2026 Q1
+
+- URL: https://www.bankofengland.co.uk/statistics/consolidated-worldwide-claims/2026/2026-q1
+- Published: 19 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release covers the consolidated worldwide external claims and unused commitments of UK-owned monetary financial institutions (excluding central banks) and their branches and subsidiaries worldwide.
+
+### Mortgage Lenders and Administrators Statistics - 2026 Q1
+
+- URL: https://www.bankofengland.co.uk/statistics/mortgage-lenders-and-administrators/2026/2026-q1
+- Published: 09 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Mortgage Lenders and Administrators Return (MLAR) is a quarterly statistical release aggregated from data on mortgage lending activities provided by around 370 regulated mortgage lenders and administrators.
+
+### External business of Monetary Financial Institutions operating in the UK - 2026 Q1
+
+- URL: https://www.bankofengland.co.uk/statistics/external-business-uk-mfi/2026/2026-q1
+- Published: 05 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release covers claims on and liabilities to other countries by UK-resident banks and building societies (monetary financial institutions).
+
+### Money and Credit - April 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/april-2026
+- Published: 02 June 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - April 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/april-2026
+- Published: 29 May 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Money and Credit - March 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/march-2026
+- Published: 01 May 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - March 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/march-2026
+- Published: 29 April 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Money and Credit - February 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/february-2026
+- Published: 30 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+### Capital Issuance - February 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/capital-issuance/2026/february-2026
+- Published: 26 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The capital issuance statistics consist of non-government primary market issuance of bonds, commercial paper and equity, representing finance raised by UK resident entities.
+
+### Consolidated worldwide claims - 2025 Q4
+
+- URL: https://www.bankofengland.co.uk/statistics/consolidated-worldwide-claims/2025/2025-q4
+- Published: 20 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release covers the consolidated worldwide external claims and unused commitments of UK-owned monetary financial institutions (excluding central banks) and their branches and subsidiaries worldwide.
+
+### Mortgage Lenders and Administrators Statistics - 2025 Q4
+
+- URL: https://www.bankofengland.co.uk/statistics/mortgage-lenders-and-administrators/2025/2025-q4
+- Published: 10 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+The Mortgage Lenders and Administrators Return (MLAR) is a quarterly statistical release aggregated from data on mortgage lending activities provided by around 340 regulated mortgage lenders and administrators.
+
+### External business of Monetary Financial Institutions operating in the UK - 2025 Q4
+
+- URL: https://www.bankofengland.co.uk/statistics/external-business-uk-mfi/2025/2025-q4
+- Published: 06 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+This statistical release covers claims on and liabilities to other countries by UK-resident banks and building societies (monetary financial institutions).
+
+### Money and Credit - January 2026
+
+- URL: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/january-2026
+- Published: 02 March 2026 09:30 (UK time)
+- Content type: Statistics
+- Feeds: statistics
+
+Our monthly Money and Credit statistical release is made up of three parts: broad money and credit, lending to individual and lending to businesses.
+
+
+## Research and Analysis
+
+Staff working papers, Bank Insights, technical papers and economic research.
+
+### Huw Pill: Speech at the Institute of International Monetary Research, London, (to be released on early w/c 16 November 2026)
+
+- URL: https://www.bankofengland.co.uk/speech/2026/november/huw-pill-speech-at-the-institute-of-international-monetary-research
+- Published: 16 November 2026 09:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Text to be released on early w/c 16 November 2026
+
+### Workshop on Behavioural Macroeconomics and Finance
+
+- URL: https://www.bankofengland.co.uk/events/2026/november/2nd-boe-lse-workshop-on-behavioural-macro-and-finance
+- Published: 13 November 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England and the LSE European Institute are pleased to announce a call for papers for the second edition of a workshop on Behavioural Macroeconomics and Finance.
+
+### 12th BdF-BoE-BdI International Macroeconomics Workshop
+
+- URL: https://www.bankofengland.co.uk/events/2026/november/international-macroeconomics-workshop
+- Published: 13 November 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+New risks in International Macro and Finance
+
+### Principals and Agents – speech by Jonathan Hall
+
+- URL: https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop
+- Published: 11 November 2026 11:30 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at CFM-Imperial Workshop on Quantitative Finance (hosted by Deutsche Bank)
+
+### Bank of England conference on growth: Long-term capital and high-growth firms
+
+- URL: https://www.bankofengland.co.uk/events/2026/october/call-for-papers-boe-growth-workshop
+- Published: 30 October 2026 09:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Conference
+
+### Global-to-UK SVAR
+
+- URL: https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar
+- Published: 23 October 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.
+
+### Review of CCP collateral rules - letters of credit
+
+- URL: https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit
+- Published: 15 October 2026 10:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Consultation paper
+
+### Sorting into entrepreneurial teams
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/sorting-into-entrepreneurial-teams
+- Published: 09 October 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Examining bank lending to high-growth firms
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/examining-bank-lending-to-high-growth-firms
+- Published: 01 October 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+A supportive financial system can help meet the distinctive financing needs of high-growth firms.
+
+### Searching for signposts − speech by Alan Taylor
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/searching-for-signposts-speech-by-alan-taylor
+- Published: 29 September 2026 16:30 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the 2026 Dow Lecture, National Institute of Economic and Social Research
+
+### Who benefits when banks go digital?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/who-benefits-when-banks-go-digital
+- Published: 29 September 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Responding to financing frictions.
+
+### 7th International capital flows and financial policies workshop
+
+- URL: https://www.bankofengland.co.uk/events/2026/september/7th-international-capital-flows-and-financial-policies-workshop
+- Published: 29 September 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The Bank of England, the Banque de France, the IMF, the Banca d’Italia and the OECD are pleased to announce a call for papers for the seventh edition of their annual workshop on International Capital Flows and Financial Policies.
+
+### Who finances UK business?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/who-finances-uk-business
+- Published: 24 September 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+A more resilient and diverse financial system is giving UK businesses a broader range of funding options.
+
+### Banking services for central bank customers
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/banking-services-for-central-bank-customers
+- Published: 23 September 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Supporting reserve management and financial stability
+
+### One dollar, many prices: dealer-specific pricing of synthetic dollar funding
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding
+- Published: 18 September 2026 14:00 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Macroeconomic dynamics of the output floor
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor
+- Published: 04 September 2026 14:01 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### How do firms cope with economic shocks in real time?
+
+- URL: https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time
+- Published: 28 August 2026 14:02 (UK time)
+- Content type: Publications
+- Feeds: publications
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+### Making scenarios add up: spanning risks with scenario synthesis
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/making-scenarios-add-up-spanning-risks-with-scenario-synthesis
+- Published: 16 July 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+How Bank staff are using statistical tools to assess whether economic scenarios capture the main risks to the economic outlook.
+
+### The role of research in Prudential Regulation − speech by David Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/july/david-bailey-speech-at-the-international-finance-and-banking-society-conference
+- Published: 15 July 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at IFABS 2026 London
+
+### Central reservations − speech by Alan Taylor
+
+- URL: https://www.bankofengland.co.uk/speech/2026/june/alan-taylor-speech-at-the-barclays-and-centre-for-economic-policy-research
+- Published: 23 June 2026 14:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Barclays-CEPR Monetary Policy Forum, London
+
+### What drives differences in commercial banks’ product level returns?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/what-drives-differences-in-commercial-banks-product-level-returns
+- Published: 19 June 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+How incentives vary across lending segments.
+
+### Revisiting the economic cost of bank capital: what has changed since 2017?
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/revisiting-the-economic-cost-of-bank-capital-what-has-changed-since-2017
+- Published: 28 May 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+How much do higher bank capital requirements affect borrowing costs and, ultimately, economic activity? This question sits at the heart of prudential policymaking. We have revisited research and updated measures of competition.
+
+### Looking at policy holistically: the case of securitisation
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/looking-at-policy-holistically-the-case-of-securitisation
+- Published: 21 May 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Finding the middle ground.
+
+### Bank of England’s 2026 BEAR conference 'The Interconnected World'
+
+- URL: https://www.bankofengland.co.uk/events/2026/may/call-for-papers-boe-2026-bear-conference
+- Published: 07 May 2026 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+London, 7 and 8 May 2026
+
+### The Court of directors of the Bank of England
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/the-court-of-directors-of-the-bank-of-england
+- Published: 28 April 2026 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Its history and modern role
+
+### Two-way street − speech by Alan Taylor
+
+- URL: https://www.bankofengland.co.uk/speech/2026/april/alan-taylor-at-a-joint-conference-at-the-banque-de-france
+- Published: 13 April 2026 14:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the PSE–BdF Conference on International Macroeconomics in Historical Perspective at the Banque de France in Paris
+
+### Responding to crises: how the Bank stays ready
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/responding-to-crises-how-the-bank-stays-ready
+- Published: 13 April 2026 11:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+An update on how the Bank of England prepares for bank failures using bail-in and transfer tools.
+
+### Global imbalances are back
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2026/global-imbalances-are-back
+- Published: 30 March 2026 14:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+Large, persistent current account imbalances are a cause for concern.
+
+### PhD Internship Q&A Event 2026
+
+- URL: https://www.bankofengland.co.uk/events/2026/january/phd-internship
+- Published: 19 January 2026 12:35 (UK time)
+- Content type: Events
+- Feeds: events
+
+A Q&A session on the PhD Internship programme.
+
+### Learning to navigate bumps in the road
+
+- URL: https://www.bankofengland.co.uk/bank-insights/2025/learning-to-navigate-bumps-in-the-road
+- Published: 08 December 2025 12:00 (UK time)
+- Content type: Bank Insights
+- Feeds: bank-insights
+
+An update on the Bank of England’s Sterling Monetary Framework Facilities and the recalibration of the Operational Standing Facility.
+
+### 12th Asset Pricing workshop
+
+- URL: https://www.bankofengland.co.uk/events/2025/november/12th-asset-pricing-workshop
+- Published: 21 November 2025 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+This event is taking place on 21 November 2025 at the Bank of England
+
+### ECONDAT 2025 spring meeting: Economics with nontraditional data and analytical tools
+
+- URL: https://www.bankofengland.co.uk/events/2025/june/econdat-spring-2025-economics-with-nontraditional-data-and-analytical-tools
+- Published: 05 June 2025 09:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Call for papers
+
+
+## Economy and Society
+
+The wider economy, households, growth, diversity and outreach.
+
+### Conference on Diversity, Equity and Inclusion in Economics, Finance, and Central Banking
+
+- URL: https://www.bankofengland.co.uk/events/2027/march/conference-diversity-equity-inclusion-in-economics
+- Published: 22 March 2027 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Call for papers
+
+### Regulators unveil plans to simplify Senior Manager and Certification Regime
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime
+- Published: 22 October 2026 21:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth.
+
+### Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026
+- Published: 18 September 2026 12:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA’s long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements
+
+### Growth and regulation - speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/july/andrew-bailey-speech-at-manison-house
+- Published: 14 July 2026 21:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at The Financial and Professional Services Dinner, Mansion House
+
+### How much do we spend during the festive season?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas
+- Published: 09 December 2024 12:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+An average household in the UK spends more than £700 extra in December than in other months
+
+### Conference on the role of financial regulation in international competitiveness and economic growth
+
+- URL: https://www.bankofengland.co.uk/events/2023/september/conference-on-the-role-of-financial-regulation-in-international-competitiveness-and-economic-growth
+- Published: 19 September 2023 00:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+The PRA hosted a major international conference to develop a deeper understanding of the core linkages and relationships between financial regulation and international competitiveness and growth.
+
+### Explainers
+
+- URL: https://www.bankofengland.co.uk/explainers
+- Published: 07 February 2023 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Want to learn more about money and the economy? Explore our bank of short explainers
+
+### What have we been doing to support the economy during the Covid crisis?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-have-we-been-doing-to-support-the-economy-during-the-covid-19-crisis
+- Published: 06 August 2020 17:16 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+The Covid (coronavirus) pandemic shook the UK’s economy. We’ve been helping to keep it stable by supporting businesses and jobs.
+
+### What is the economy?
+
+- URL: https://www.bankofengland.co.uk/explainers/what-is-the-economy
+- Published: 07 August 2019 11:57 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+An economy is a system for distributing limited resources… confused? Keep reading
+
+### How is money created?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-is-money-created
+- Published: 23 March 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Most of the money in the economy is created by banks when they provide loans.
+
+### Why are football players paid so much?
+
+- URL: https://www.bankofengland.co.uk/explainers/why-are-football-players-paid-so-much
+- Published: 14 February 2018 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+The short answer is: supply and demand.
+
+### What’s the Bank of England’s role in the housing market?
+
+- URL: https://www.bankofengland.co.uk/explainers/whats-the-bank-of-englands-role-in-the-housing-market
+- Published: 08 December 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+If we look at how much British households borrow, more than seven out of ten pounds are for mortgages.
+
+### How does the housing market affect the economy?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-does-the-housing-market-affect-the-economy
+- Published: 04 December 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+House prices affect how much money people spend. They have tripled since the late 1970s.
+
+### How fast can the economy grow?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-fast-can-the-economy-grow
+- Published: 06 November 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+While we often think of economic growth as good news, it can also happen too rapidly
+
+### How will driverless cars affect the economy?
+
+- URL: https://www.bankofengland.co.uk/explainers/how-will-driverless-cars-affect-the-economy
+- Published: 18 May 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+UK drivers spend 127 hours stuck in traffic each year.
+
+
+## Corporate and Governance
+
+The Bank as an institution: Court, appointments, annual reports, careers and history.
+
+### Central Bank independence in today’s world - Speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-swiss-institute-international-studies-lecture-series
+- Published: 09 November 2026 17:25 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the SIAF Lecture Series, Zurich University
+
+### Minutes of the Meeting of the Court of Directors held on 17 September 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026
+- Published: 29 October 2026 14:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.
+
+### David Roberts CV and questionnaire for the Treasury Select Committee
+
+- URL: https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment
+- Published: 15 October 2026 10:52 (UK time)
+- Content type: News
+- Feeds: news
+
+Published for the Treasury Select Committee
+
+### Minutes of the Meeting of the Court of Directors held on 16 July 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026
+- Published: 01 October 2026 14:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.
+
+### Bank of England announces new office space in Leeds
+
+- URL: https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds
+- Published: 21 September 2026 13:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank of England has secured a new long-term premises in Leeds, marking a major milestone in its commitment to build its presence in the region.
+
+### Chancellor announces Bank of England appointments
+
+- URL: https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments
+- Published: 16 September 2026 15:03 (UK time)
+- Content type: News
+- Feeds: news
+
+His Majesty the King and the Chancellor have appointed three new non-executive directors to the Bank of England’s Court of Directors
+
+### Announcement of the publication of the Governor's interview transcript
+
+- URL: https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview
+- Published: 10 September 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+Statement from the Bank of England
+
+### The institutional form of independent central banks: from history to contemporary challenges - speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/andrew-bailey-keynote-speech-at-lse-trium-anniversary-conference
+- Published: 04 September 2026 09:50 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at LSE TRIUM Anniversary Conference
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026
+
+- URL: https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026
+- Published: 30 July 2026 14:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.
+
+### Oral evidence to the Lords Economic Affairs Committee
+
+- URL: https://www.bankofengland.co.uk/events/2026/june/oral-evidence-to-the-lords-economic-affairs-committee
+- Published: 02 June 2026 15:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witness: Andrew Bailey
+
+### Treasury Select Committee pre commencement hearing
+
+- URL: https://www.bankofengland.co.uk/events/2026/april/tsc-pre-commencement-hearing
+- Published: 15 April 2026 14:15 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witness: Katharine Braddick
+
+### Central Bank Independence – in need of further thinking - Speech by Andrew Bailey
+
+- URL: https://www.bankofengland.co.uk/speech/2026/april/andrew-bailey-panellist-at-columbia-university-new-york
+- Published: 14 April 2026 17:05 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Columbia University, New York
+
+### Public Accounts Committee hearing ‘The Bank of England’s real-time gross settlement renewal programme’ (3.30pm)
+
+- URL: https://www.bankofengland.co.uk/events/2026/march/pac-hearing-boe-real-gross-settlement-renewal-programme
+- Published: 02 March 2026 15:30 (UK time)
+- Content type: Events
+- Feeds: events
+
+Witnesses: Dave Ramsden, Nathan Monk and Victoria Cleland
+
+### Who pays for the Bank of England?
+
+- URL: https://www.bankofengland.co.uk/explainers/who-pays-for-the-bank-of-england
+- Published: 30 October 2019 14:56 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+Although we’re a public body, each year we give around £350 million back to the public through HM Treasury.
+
+### The Bank of England in literature
+
+- URL: https://www.bankofengland.co.uk/explainers/the-bank-of-england-in-literature
+- Published: 17 November 2017 00:00 (UK time)
+- Content type: Explainers (Knowledge Bank)
+- Feeds: knowledgebank
+
+We make an appearance in literature as a setting, an institution and even a character in itself.
+
+
+## General
+
+Items that do not match a more specific theme.
+
+### A unique vantage point − speech by Nathanaël Benjamin
+
+- URL: https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum
+- Published: 01 October 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the ISDA Derivatives Trading and Treasury Forum
+
+### Homophones – Remarks by Huw Pill
+
+- URL: https://www.bankofengland.co.uk/speech/2026/september/remarks-at-the-edinburgh-chamber-of-commerce
+- Published: 03 September 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Remarks at the Edinburgh Chamber of Commerce roundtable.
+
+### Testing times require time for testing − speech by Ruth Smith
+
+- URL: https://www.bankofengland.co.uk/speech/2026/july/ruth-smith-speech-at-uk-finance
+- Published: 13 July 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at UK Finance
+
+### Agents of change − speech by Sarah Breeden
+
+- URL: https://www.bankofengland.co.uk/speech/2026/june/sarah-breeden-panel-at-the-european-central-bank-forum-on-central-banking-2026
+- Published: 30 June 2026 11:40 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at ECB Sintra Forum
+
+### It’s Coming Home − speech by Shoib Khan
+
+- URL: https://www.bankofengland.co.uk/speech/2026/june/shoib-khan-speech-at-the-airmic-annual-conference-2026
+- Published: 16 June 2026 10:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at Airmic Annual Conference 2026
+
+### Slides from Huw Pill’s fireside chat at NatWest
+
+- URL: https://www.bankofengland.co.uk/speech/2026/may/slides-from-huw-pill-fireside-chat-at-natwest
+- Published: 14 May 2026 16:10 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Slides by Huw Pill
+
+### Stopping for gas − speech by Alan Taylor
+
+- URL: https://www.bankofengland.co.uk/speech/2026/march/alan-taylor-exante-datas-10-year-anniversary-macro-conference
+- Published: 26 March 2026 16:00 (UK time)
+- Content type: Speeches
+- Feeds: speeches
+
+Given at the Exante Data 10 Year Anniversary Conference, New York
+
+### Community forums in 2020-2021
+
+- URL: https://www.bankofengland.co.uk/events/2021/december/community-forums-in-2020-2021
+- Published: 30 December 2021 15:14 (UK time)
+- Content type: Events
+- Feeds: events
+
+Read the summary from our Community forums in 2021
+
+### Webinar to discuss “Options for greening the Bank of England’s Corporate Bond Purchase Scheme”
+
+- URL: https://www.bankofengland.co.uk/events/2021/june/webinar-to-discuss-options-for-greening-the-bank-of-englands-corporate-bond-purchase-scheme
+- Published: 29 June 2021 14:00 (UK time)
+- Content type: Events
+- Feeds: events
+
+Held virtually on 29 June 2021 from 2pm - 3.15pm BST
+

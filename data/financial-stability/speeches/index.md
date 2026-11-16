@@ -1,0 +1,11 @@
+# Financial Stability / Speeches
+
+| Date (UK) | Title | Source |
+|---|---|---|
+| 23 Oct 2026 | [Physical shocks and economic resilience: a central bank perspective − speech by James Talbot](2026-10-23-physical-shocks-and-economic-resilience-a-central-bank-persp-52b84329.md) | [boe](https://www.bankofengland.co.uk/speech/2026/october/physical-shocks-and-economic-resilience-speech-by-james-talbot) |
+| 08 Oct 2026 | [Financial resilience in an age of repeated shocks -  speech by Andrew Bailey](2026-10-08-financial-resilience-in-an-age-of-repeated-shocks-speech-by-07312d1a.md) | [boe](https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul) |
+| 23 Sep 2026 | [No bank too big to fail, and none too small to resolve − speech by Ruth Smith](2026-09-23-no-bank-too-big-to-fail-and-none-too-small-to-resolve-speech-607ba7a1.md) | [boe](https://www.bankofengland.co.uk/speech/2026/september/ruth-smith-speech-florence-school-of-banking-and-finance-european-university-institute-florence) |
+| 14 May 2026 | [Operational resilience in a rapidly changing world − speech by Liz Oakes](2026-05-14-operational-resilience-in-a-rapidly-changing-world-speech-by-cdf55dd3.md) | [boe](https://www.bankofengland.co.uk/speech/2026/may/liz-oakes-speech-and-panel-at-the-kpmg-and-fitch-ratings-london-banking-summit) |
+| 29 Apr 2026 | [Innovation and Resilience in the BPA Sector – speech by Gareth Truran](2026-04-29-innovation-and-resilience-in-the-bpa-sector-speech-by-gareth-89375471.md) | [boe](https://www.bankofengland.co.uk/speech/2026/april/gareth-truran-the-23rd-conference-on-bulk-annuities) |
+| 17 Apr 2026 | [This time is different? Speech by Sarah Breeden](2026-04-17-this-time-is-different-speech-by-sarah-breeden-4cd64084.md) | [boe](https://www.bankofengland.co.uk/speech/2026/april/sarah-breeden-at-the-program-on-international-financial-systems-and-harvard-law-school) |
+| 24 Mar 2026 | [Robustness - speech by Huw Pill](2026-03-24-robustness-speech-by-huw-pill-e8207a92.md) | [boe](https://www.bankofengland.co.uk/speech/2026/march/huw-pill-speech-at-national-bank-of-the-republic-of-north-macedonia-and-suerf-conference) |

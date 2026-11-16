@@ -1,0 +1,11 @@
+# Prudential Regulation / News
+
+| Date (UK) | Title | Source |
+|---|---|---|
+| 03 Nov 2026 | [Regulators explore credit union reforms to support growth, innovation and better outcomes for members](2026-11-03-regulators-explore-credit-union-reforms-to-support-growth-in-e13d988a.md) | [boe](https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members) |
+| 07 Oct 2026 | [Regulatory thresholds set to shift to automatic increases](2026-10-07-regulatory-thresholds-set-to-shift-to-automatic-increases-56616969.md) | [boe](https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases) |
+| 02 Oct 2026 | [Appointment of members of the Enforcement Decision Making Committee (EDMC)](2026-10-02-appointment-of-members-of-the-enforcement-decision-making-co-b641cc4f.md) | [boe](https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc) |
+| 03 Aug 2026 | [Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)](2026-08-03-appointment-of-chair-and-deputy-chair-of-the-enforcement-dec-0f5350f7.md) | [boe](https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc) |
+| 22 Jul 2026 | [PRA consults on updated guidance for friendly society amalgamations and transfers](2026-07-22-pra-consults-on-updated-guidance-for-friendly-society-amalga-6f3d5c0d.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers) |
+| 20 Jul 2026 | [PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data](2026-07-20-pra-fines-hdi-global-se-4-165-000-for-inaccurate-reporting-o-e026f16a.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting) |
+| 14 Jul 2026 | [PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness](2026-07-14-pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-879f9d84.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness) |

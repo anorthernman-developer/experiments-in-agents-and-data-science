@@ -1,0 +1,70 @@
+{
+  "index": "https://www.bankofengland.co.uk/rss",
+  "run_date": "2026-11-16",
+  "feeds": [
+    {
+      "slug": "bank-insights",
+      "label": "Bank Insights",
+      "url": "https://www.bankofengland.co.uk/rss/bank-insights",
+      "status": "ok",
+      "items": 28,
+      "error": null
+    },
+    {
+      "slug": "events",
+      "label": "Events",
+      "url": "https://www.bankofengland.co.uk/rss/events",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    },
+    {
+      "slug": "knowledgebank",
+      "label": "Explainers",
+      "url": "https://www.bankofengland.co.uk/rss/knowledgebank",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    },
+    {
+      "slug": "news",
+      "label": "News",
+      "url": "https://www.bankofengland.co.uk/rss/news",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    },
+    {
+      "slug": "prudential-regulation-publications",
+      "label": "Prudential regulation publications",
+      "url": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    },
+    {
+      "slug": "publications",
+      "label": "Publications",
+      "url": "https://www.bankofengland.co.uk/rss/publications",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    },
+    {
+      "slug": "speeches",
+      "label": "Speeches",
+      "url": "https://www.bankofengland.co.uk/rss/speeches",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    },
+    {
+      "slug": "statistics",
+      "label": "Statistics",
+      "url": "https://www.bankofengland.co.uk/rss/statistics",
+      "status": "ok",
+      "items": 50,
+      "error": null
+    }
+  ]
+}
