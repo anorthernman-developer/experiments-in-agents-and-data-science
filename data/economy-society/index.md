@@ -2,14 +2,15 @@
 
 The wider economy, households, growth, diversity and outreach.
 
-**15 items** across 4 content types.
+**17 items** across 4 content types.
 
 
-## Events (2)
+## Events (3)
 
 | Date (UK) | Title | Source |
 |---|---|---|
 | 22 Mar 2027 | [Conference on Diversity, Equity and Inclusion in Economics, Finance, and Central Banking](events/2027-03-22-conference-on-diversity-equity-and-inclusion-in-economics-fi-9801e202.md) | [boe](https://www.bankofengland.co.uk/events/2027/march/conference-diversity-equity-inclusion-in-economics) |
+| 19 Nov 2026 | [Joint BIS, BoE, ECB and IMF 11th spillover conference: New forces and vulnerabilities in the global economy](events/2026-11-19-joint-bis-boe-ecb-and-imf-11th-spillover-conference-new-forc-0e8dbb35.md) | [boe](https://www.bankofengland.co.uk/events/2027/april/joint-bis-boe-ecb-and-imf-11th-spillover-conference) |
 | 19 Sep 2023 | [Conference on the role of financial regulation in international competitiveness and economic growth](events/2023-09-18-conference-on-the-role-of-financial-regulation-in-internatio-10e6649d.md) | [boe](https://www.bankofengland.co.uk/events/2023/september/conference-on-the-role-of-financial-regulation-in-international-competitiveness-and-economic-growth) |
 
 ## Explainers (Knowledge Bank) (10)
@@ -34,8 +35,9 @@ The wider economy, households, growth, diversity and outreach.
 | 22 Oct 2026 | [Regulators unveil plans to simplify Senior Manager and Certification Regime](news/2026-10-22-regulators-unveil-plans-to-simplify-senior-manager-and-certi-0186346f.md) | [boe](https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime) |
 | 18 Sep 2026 | [Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026](news/2026-09-18-minutes-of-the-transaction-and-post-trade-reporting-harmonis-562385ed.md) | [boe](https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026) |
 
-## Speeches (1)
+## Speeches (2)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 18 Nov 2026 | [The UK’s regional growth: unlocking the economy’s full potential - speech by Andrew Bailey](speeches/2026-11-18-the-uk-s-regional-growth-unlocking-the-economy-s-full-potent-4b82ff2d.md) | [boe](https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-the-annual-institute-of-economic-development-conference-london) |
 | 14 Jul 2026 | [Growth and regulation - speech by Andrew Bailey](speeches/2026-07-14-growth-and-regulation-speech-by-andrew-bailey-ee5dbebb.md) | [boe](https://www.bankofengland.co.uk/speech/2026/july/andrew-bailey-speech-at-manison-house) |

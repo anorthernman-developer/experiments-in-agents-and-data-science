@@ -2,6 +2,7 @@
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 19 Nov 2026 | [Minutes of the Market Participants Group meeting – 18 November 2026](2026-11-19-minutes-of-the-market-participants-group-meeting-18-november-5ad98198.md) | [boe](https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026) |
 | 10 Nov 2026 | [Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026](2026-11-10-exchange-of-letters-between-the-governor-and-the-chancellor-95faff72.md) | [boe](https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026) |
 | 05 Nov 2026 | [Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes](2026-11-05-bank-rate-increased-to-4-november-2026-monetary-policy-summa-e89a63b6.md) | [boe](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026) |
 | 28 Oct 2026 | [Remit for the Monetary Policy Committee - October 2026](2026-10-28-remit-for-the-monetary-policy-committee-october-2026-7940ad1f.md) | [boe](https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026) |

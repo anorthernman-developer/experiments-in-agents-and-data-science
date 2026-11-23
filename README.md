@@ -7,21 +7,21 @@ This repository shows what an agent pipeline can do with one public dataset. Eve
 > **Unofficial project.** It is not affiliated with, endorsed by or maintained by the Bank of England. All titles, descriptions and links come from the Bank's public RSS feeds and remain the Bank's property. Please see the [Bank of England's legal and terms page](https://www.bankofengland.co.uk/legal). Theme labels are assigned automatically and may sometimes be wrong.
 
 <!-- STATS:START -->
-**Last refresh:** 2026-11-16 &nbsp;|&nbsp; **Feeds:** 8/8 OK &nbsp;|&nbsp; **Items archived:** 378 &nbsp;|&nbsp; **Published in the last 7 days:** 13 &nbsp;|&nbsp; [This week's digest](weekly/latest.md)
+**Last refresh:** 2026-11-23 &nbsp;|&nbsp; **Feeds:** 8/8 OK &nbsp;|&nbsp; **Items archived:** 403 &nbsp;|&nbsp; **Published in the last 7 days:** 23 &nbsp;|&nbsp; [This week's digest](weekly/latest.md)
 
 | Theme | Items |
 |---|---:|
-| [Monetary Policy](data/monetary-policy/index.md) | 86 |
-| [Financial Stability](data/financial-stability/index.md) | 22 |
-| [Prudential Regulation](data/prudential-regulation/index.md) | 83 |
+| [Monetary Policy](data/monetary-policy/index.md) | 90 |
+| [Financial Stability](data/financial-stability/index.md) | 25 |
+| [Prudential Regulation](data/prudential-regulation/index.md) | 88 |
 | [Technology and AI](data/technology-ai/index.md) | 10 |
 | [Payments and Digital Money](data/payments-digital-money/index.md) | 26 |
-| [Markets and Operations](data/markets-operations/index.md) | 39 |
+| [Markets and Operations](data/markets-operations/index.md) | 40 |
 | [Banknotes](data/banknotes/index.md) | 8 |
 | [Climate and Sustainability](data/climate-sustainability/index.md) | 3 |
 | [Statistics and Data](data/statistics-data/index.md) | 30 |
-| [Research and Analysis](data/research-analysis/index.md) | 32 |
-| [Economy and Society](data/economy-society/index.md) | 15 |
+| [Research and Analysis](data/research-analysis/index.md) | 42 |
+| [Economy and Society](data/economy-society/index.md) | 17 |
 | [Corporate and Governance](data/corporate-governance/index.md) | 15 |
 | [General](data/general/index.md) | 9 |
 <!-- STATS:END -->

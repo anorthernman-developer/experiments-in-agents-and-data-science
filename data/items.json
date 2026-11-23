@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-23",
   "source": "https://www.bankofengland.co.uk/rss",
-  "count": 378,
+  "count": 403,
   "items": [
     {
       "id": "9801e202-2fdf-4e0b-b570-2693513142a1",
@@ -16,7 +16,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/events/2027-03-22-conference-on-diversity-equity-and-inclusion-in-economics-fi-9801e202.md"
     },
     {
@@ -32,8 +32,216 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2027-02-17-challenges-to-monetary-policy-university-of-leeds-and-bank-o-179bc04e.md"
+    },
+    {
+      "id": "7a7cd851-70f9-4263-86db-e51fae9ae943",
+      "title": "Treasury Select Committee on the November Monetary Policy Report (2.15pm)",
+      "link": "https://www.bankofengland.co.uk/events/2026/november/tsc-november-monetary-policy-report",
+      "description": "Witnesses: Andrew Bailey, Clare Lombardelli, Catherine L Mann and Swati Dhingra",
+      "published": "2026-11-25T14:15:00Z",
+      "theme": "monetary-policy",
+      "content_type": "events",
+      "feeds": [
+        "events"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/monetary-policy/events/2026-11-25-treasury-select-committee-on-the-november-monetary-policy-re-7a7cd851.md"
+    },
+    {
+      "id": "bcd4fecc-92db-4908-aeae-ee10ca852173",
+      "title": "When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness",
+      "description": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "published": "2026-11-20T14:00:00Z",
+      "theme": "monetary-policy",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/monetary-policy/publications/2026-11-20-when-vacancies-become-cheap-vacancy-posting-costs-and-equili-bcd4fecc.md"
+    },
+    {
+      "id": "520c4cca-040b-416f-96f9-fb390b1f5677",
+      "title": "Bank of England Weekly Report 18 November 2026",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026",
+      "description": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "published": "2026-11-19T14:12:46Z",
+      "theme": "markets-operations",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/markets-operations/publications/2026-11-19-bank-of-england-weekly-report-18-november-2026-520c4cca.md"
+    },
+    {
+      "id": "bf07ae82-b167-40bf-aba0-15590617cd98",
+      "title": "Effective practices: Cyber risk and resilience management relating to quantum computing",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing",
+      "description": "This joint PRA, FCA and Bank publication highlights effective practices to manage cyber resilience and risks relating to quantum computing for firms and financial market infrastructures.",
+      "published": "2026-11-19T10:00:00Z",
+      "theme": "prudential-regulation",
+      "content_type": "prudential-regulation-publications",
+      "feeds": [
+        "prudential-regulation-publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-19-effective-practices-cyber-risk-and-resilience-management-rel-bf07ae82.md"
+    },
+    {
+      "id": "57d69072-daff-40db-b8f8-823120f43797",
+      "title": "Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence",
+      "description": "This joint PRA, FCA and Bank publication highlights effective practices to manage cyber resilience and risks relating to artificial intelligence (AI) for firms and financial market infrastructures.",
+      "published": "2026-11-19T10:00:00Z",
+      "theme": "prudential-regulation",
+      "content_type": "prudential-regulation-publications",
+      "feeds": [
+        "prudential-regulation-publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-19-effective-practices-cyber-risk-and-resilience-management-rel-57d69072.md"
+    },
+    {
+      "id": "0e8dbb35-9f20-40f9-b479-5c10c8886640",
+      "title": "Joint BIS, BoE, ECB and IMF 11th spillover conference: New forces and vulnerabilities in the global economy",
+      "link": "https://www.bankofengland.co.uk/events/2027/april/joint-bis-boe-ecb-and-imf-11th-spillover-conference",
+      "description": "Bank of England, London | 27 to 28 April 2027",
+      "published": "2026-11-19T09:52:15Z",
+      "theme": "economy-society",
+      "content_type": "events",
+      "feeds": [
+        "events"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/economy-society/events/2026-11-19-joint-bis-boe-ecb-and-imf-11th-spillover-conference-new-forc-0e8dbb35.md"
+    },
+    {
+      "id": "459f2d6e-9f7f-4970-b414-47ad1726f841",
+      "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+      "description": "UK’s financial regulators are proposing a new guidance to help financial services firms prepare for and recover from cyber incidents as threats grow.",
+      "published": "2026-11-19T08:00:00Z",
+      "theme": "financial-stability",
+      "content_type": "news",
+      "feeds": [
+        "news"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/financial-stability/news/2026-11-19-cyber-resilience-guidance-consultation-and-ai-and-quantum-ef-459f2d6e.md"
+    },
+    {
+      "id": "d8951035-20f1-42cc-b3b6-eb2ee924e554",
+      "title": "CP17/26 and GC26/9 – Cyber risk and resilience management",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper",
+      "description": "Consultation paper 17/26",
+      "published": "2026-11-19T08:00:00Z",
+      "theme": "prudential-regulation",
+      "content_type": "prudential-regulation-publications",
+      "feeds": [
+        "prudential-regulation-publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-19-cp17-26-and-gc26-9-cyber-risk-and-resilience-management-d8951035.md"
+    },
+    {
+      "id": "5ad98198-3122-4b03-b451-51c411fda9ca",
+      "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+      "description": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+      "published": "2026-11-19T07:30:00Z",
+      "theme": "monetary-policy",
+      "content_type": "news",
+      "feeds": [
+        "news"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/monetary-policy/news/2026-11-19-minutes-of-the-market-participants-group-meeting-18-november-5ad98198.md"
+    },
+    {
+      "id": "4b82ff2d-e4d3-4245-a982-675ea8d6ae39",
+      "title": "The UK’s regional growth: unlocking the economy’s full potential - speech by Andrew Bailey",
+      "link": "https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-the-annual-institute-of-economic-development-conference-london",
+      "description": "Given at Institute of Economic Development Conference",
+      "published": "2026-11-18T15:00:00Z",
+      "theme": "economy-society",
+      "content_type": "speeches",
+      "feeds": [
+        "speeches"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/economy-society/speeches/2026-11-18-the-uk-s-regional-growth-unlocking-the-economy-s-full-potent-4b82ff2d.md"
+    },
+    {
+      "id": "15144c42-8b98-4b3a-a6d3-851ced71b037",
+      "title": "Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick",
+      "link": "https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner",
+      "description": "Given at the UK Finance Annual Dinner, London",
+      "published": "2026-11-18T14:00:00Z",
+      "theme": "financial-stability",
+      "content_type": "speeches",
+      "feeds": [
+        "speeches"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/financial-stability/speeches/2026-11-18-transparency-and-predictability-a-foundation-for-future-resi-15144c42.md"
+    },
+    {
+      "id": "f00b5934-8f28-4c42-8ef8-7cfcdf875cef",
+      "title": "CP16/26 – Clarifying the Prudential Regulation Authority’s approach to the implementation of the O-SII buffer",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/clarifying-the-pra-approach-to-the-implementation-of-the-o-sii-buffer-consultation-paper",
+      "description": "Consultation paper 16/26",
+      "published": "2026-11-18T10:00:00Z",
+      "theme": "prudential-regulation",
+      "content_type": "prudential-regulation-publications",
+      "feeds": [
+        "prudential-regulation-publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-18-cp16-26-clarifying-the-prudential-regulation-authority-s-app-f00b5934.md"
+    },
+    {
+      "id": "c6afc131-3beb-483e-9266-6660ef4969ae",
+      "title": "Eleventh edition of the Regulatory Initiatives Grid",
+      "link": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+      "description": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+      "published": "2026-11-17T07:00:00Z",
+      "theme": "prudential-regulation",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/prudential-regulation/publications/2026-11-17-eleventh-edition-of-the-regulatory-initiatives-grid-c6afc131.md"
     },
     {
       "id": "f78f5c8f-a1d6-4b0e-8a7c-d24a293ce5ed",
@@ -48,7 +256,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-11-16-bank-of-england-to-hear-the-views-of-people-in-northern-irel-f78f5c8f.md"
     },
     {
@@ -64,8 +272,184 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-11-16-bank-of-england-to-hear-the-views-of-the-people-in-bristol-a-9b30ac4e.md"
+    },
+    {
+      "id": "ccef0d68-8727-40d1-9441-d1354ff7bb63",
+      "title": "The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties",
+      "link": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
+      "description": "Technical note",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-the-impact-of-default-waterfall-positioning-on-pro-rata-seco-ccef0d68.md"
+    },
+    {
+      "id": "5615e248-55d7-4215-8e3c-129a3afb0a07",
+      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
+      "description": "Policy statement",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-the-bank-of-england-s-approach-to-using-its-requirements-and-5615e248.md"
+    },
+    {
+      "id": "914239ab-0380-473c-b713-5c7a0ecb0fff",
+      "title": "The Bank of England’s approach to rule permissions and waivers: Policy statement",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps",
+      "description": "Policy statement",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-the-bank-of-england-s-approach-to-rule-permissions-and-waive-914239ab.md"
+    },
+    {
+      "id": "51c8d96f-3675-4685-9d67-c39ab9489a16",
+      "title": "Statement of policy: The Bank of England’s approach to rule permissions and waivers",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers",
+      "description": "Statement of policy",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-statement-of-policy-the-bank-of-england-s-approach-to-rule-p-51c8d96f.md"
+    },
+    {
+      "id": "6c89924f-e4e8-480f-9ef7-02f362d40cee",
+      "title": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
+      "description": "Statement of policy",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-statement-of-policy-the-bank-of-england-s-approach-to-using-6c89924f.md"
+    },
+    {
+      "id": "71083d3a-a6e1-44e4-8df0-50a1a0b9a58f",
+      "title": "Near-final supervisory statement on CCP margin",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ss/near-final-supervisory-statement-on-ccp-margin",
+      "description": "Near-final supervisory statement",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-near-final-supervisory-statement-on-ccp-margin-71083d3a.md"
+    },
+    {
+      "id": "c5e17d75-c27b-4ccf-baf0-c07f49737023",
+      "title": "Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps",
+      "description": "Near-final statement of policy",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-c5e17d75.md"
+    },
+    {
+      "id": "fd97e59e-2290-4d67-9fdb-bbfd895a98b2",
+      "title": "Near-final statement of policy: The Bank of England’s approach to supervisory processes (model changes, recognition orders and variations of recognition orders) and margin permissions",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions",
+      "description": "Near-final statement of policy",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-fd97e59e.md"
+    },
+    {
+      "id": "0a8b20e0-7710-40c8-b7cf-2fe3835c5305",
+      "title": "Near-final statement of policy: The Bank of England’s approach to comparable compliance permissions",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance",
+      "description": "Near-final statement of policy",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-0a8b20e0.md"
+    },
+    {
+      "id": "a5eb648f-d168-4daa-af41-2b242bc19db6",
+      "title": "Near-final Statement of Policy: The Bank of England’s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangements permissions)",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules",
+      "description": "Near-final statement of policy",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "research-analysis",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/research-analysis/publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-a5eb648f.md"
+    },
+    {
+      "id": "3b534f49-c355-4a68-9d1e-ecad20e01b0f",
+      "title": "Ensuring the resilience of CCPs: near-final policy statement",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
+      "description": "Near-final policy statement",
+      "published": "2026-11-16T11:00:00Z",
+      "theme": "financial-stability",
+      "content_type": "publications",
+      "feeds": [
+        "publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/financial-stability/publications/2026-11-16-ensuring-the-resilience-of-ccps-near-final-policy-statement-3b534f49.md"
     },
     {
       "id": "89468fb8-b2fd-4e6d-8024-3e99f1f97fe9",
@@ -96,7 +480,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/news/2026-11-13-the-bank-of-england-the-monetary-authority-of-singapore-and-0b2d3ec2.md"
     },
     {
@@ -112,7 +496,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/publications/2026-11-13-project-meridian-fx-apac-technical-report-8a3a5c4c.md"
     },
     {
@@ -128,7 +512,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/publications/2026-11-13-project-meridian-fx-apac-policy-report-df799c5e.md"
     },
     {
@@ -144,7 +528,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/publications/2026-11-13-project-meridian-fx-apac-executive-summary-and-introduction-e34407fb.md"
     },
     {
@@ -160,7 +544,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/events/2026-11-13-workshop-on-behavioural-macroeconomics-and-finance-34d72faa.md"
     },
     {
@@ -176,7 +560,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/events/2026-11-13-12th-bdf-boe-bdi-international-macroeconomics-workshop-515c3a50.md"
     },
     {
@@ -192,7 +576,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-11-12-bank-of-england-weekly-report-11-november-2026-ed612e11.md"
     },
     {
@@ -208,7 +592,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/speeches/2026-11-11-principals-and-agents-speech-by-jonathan-hall-c29b51a3.md"
     },
     {
@@ -224,8 +608,24 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/speeches/2026-11-11-uk-retail-payments-infrastructure-moving-from-vision-to-desi-295b6a6b.md"
+    },
+    {
+      "id": "7514d40e-10cc-4872-aa47-ea87abd9a784",
+      "title": "Agency national MPR briefing - November 2026",
+      "link": "https://www.bankofengland.co.uk/events/2026/november/mpr-national-agency-briefing-november-2026",
+      "description": "Virtual event",
+      "published": "2026-11-10T13:50:00Z",
+      "theme": "monetary-policy",
+      "content_type": "events",
+      "feeds": [
+        "events"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/monetary-policy/events/2026-11-10-agency-national-mpr-briefing-november-2026-7514d40e.md"
     },
     {
       "id": "2bbfc99d-bd6c-43d5-813f-a19d640d8ea2",
@@ -240,7 +640,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-11-10-the-low-gear-labour-market-speech-by-clare-lombardelli-2bbfc99d.md"
     },
     {
@@ -256,7 +656,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-11-10-exchange-of-letters-between-the-governor-and-the-chancellor-95faff72.md"
     },
     {
@@ -272,7 +672,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-11-10-asset-purchase-facility-quarterly-report-2026-q3-2be835a6.md"
     },
     {
@@ -288,7 +688,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-10-ps20-26-amendments-to-the-large-exposures-framework-part-2-d0dd5694.md"
     },
     {
@@ -304,7 +704,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/speeches/2026-11-09-central-bank-independence-in-today-s-world-speech-by-andrew-8dd9ba6c.md"
     },
     {
@@ -320,7 +720,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-11-06-price-efficiency-in-securities-lending-38331257.md"
     },
     {
@@ -336,7 +736,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-11-06-the-aggregate-and-distributional-implications-of-credit-shoc-3c1ea426.md"
     },
     {
@@ -352,7 +752,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-11-06-market-participants-survey-results-november-2026-31ee753c.md"
     },
     {
@@ -368,7 +768,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-11-05-bank-of-england-weekly-report-4-november-2026-0bca7ab8.md"
     },
     {
@@ -384,7 +784,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-11-05-monetary-policy-report-november-2026-ed71925f.md"
     },
     {
@@ -400,7 +800,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-11-05-bank-rate-increased-to-4-november-2026-monetary-policy-summa-e89a63b6.md"
     },
     {
@@ -416,7 +816,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/news/2026-11-04-summary-of-the-rtgs-chaps-industry-forum-13-october-2026-228dcaec.md"
     },
     {
@@ -432,7 +832,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/speeches/2026-11-04-data-and-analytics-transformation-at-the-bank-of-england-to-d7752e83.md"
     },
     {
@@ -448,7 +848,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/publications/2026-11-04-response-to-the-rpib-consultation-on-the-design-of-the-futur-f109e435.md"
     },
     {
@@ -464,7 +864,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-11-04-uk-international-reserves-october-2026-9c520700.md"
     },
     {
@@ -480,7 +880,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/news/2026-11-03-regulators-explore-credit-union-reforms-to-support-growth-in-e13d988a.md"
     },
     {
@@ -496,7 +896,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-03-dp2-26-credit-unions-supporting-sustainable-growth-and-resil-7f56725b.md"
     },
     {
@@ -512,7 +912,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-03-cp15-26-northern-ireland-credit-unions-implementing-legislat-584b712c.md"
     },
     {
@@ -528,7 +928,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-02-pra-regulatory-digest-october-2026-86d28288.md"
     },
     {
@@ -544,7 +944,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-10-30-monthly-decision-maker-panel-data-october-2026-c3f78c83.md"
     },
     {
@@ -560,7 +960,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-10-30-credit-union-quarterly-statistics-2026-q2-dd7c9649.md"
     },
     {
@@ -576,7 +976,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-10-30-agents-summary-of-business-conditions-october-2026-faeb8b9f.md"
     },
     {
@@ -592,7 +992,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/events/2026-10-30-bank-of-england-conference-on-growth-long-term-capital-and-h-315cf92d.md"
     },
     {
@@ -608,7 +1008,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-10-29-bank-of-england-weekly-report-28-october-2026-d2c40e6b.md"
     },
     {
@@ -624,7 +1024,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-10-29-minutes-of-the-meeting-of-the-court-of-directors-held-on-17-e2fb3558.md"
     },
     {
@@ -640,7 +1040,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/publications/2026-10-29-consultation-on-supervisory-expectations-for-central-counter-d483f269.md"
     },
     {
@@ -656,7 +1056,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/news/2026-10-29-bank-of-england-sets-out-approach-to-tokenised-collateral-in-04c7c0f2.md"
     },
     {
@@ -672,7 +1072,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-10-29-money-and-credit-september-2026-320330b7.md"
     },
     {
@@ -688,7 +1088,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-10-29-effective-interest-rates-september-2026-507be1e9.md"
     },
     {
@@ -704,7 +1104,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-10-28-remit-for-the-monetary-policy-committee-october-2026-7940ad1f.md"
     },
     {
@@ -720,7 +1120,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-10-27-capital-issuance-september-2026-07271785.md"
     },
     {
@@ -736,7 +1136,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/publications/2026-10-26-artificial-intelligence-in-uk-financial-services-2026-52f2bc71.md"
     },
     {
@@ -752,7 +1152,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/publications/2026-10-23-lighting-the-shadows-central-bank-policy-transmission-throug-947bb1ea.md"
     },
     {
@@ -768,7 +1168,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/publications/2026-10-23-global-to-uk-svar-a4e26fb5.md"
     },
     {
@@ -784,7 +1184,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/speeches/2026-10-23-physical-shocks-and-economic-resilience-a-central-bank-persp-52b84329.md"
     },
     {
@@ -800,7 +1200,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/speeches/2026-10-22-the-pra-s-second-decade-speech-by-katharine-braddick-2fc1ad25.md"
     },
     {
@@ -816,7 +1216,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/news/2026-10-22-regulators-unveil-plans-to-simplify-senior-manager-and-certi-0186346f.md"
     },
     {
@@ -832,7 +1232,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-10-22-cp14-26-review-of-the-senior-managers-and-certification-regi-a674fb32.md"
     },
     {
@@ -848,7 +1248,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-22-minutes-of-the-securities-lending-committee-meeting-septembe-cb8ad149.md"
     },
     {
@@ -864,7 +1264,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-10-22-bank-of-england-weekly-report-21-october-2026-ecd38b71.md"
     },
     {
@@ -880,7 +1280,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/climate-sustainability/events/2026-10-20-5th-annual-workshop-of-the-escb-research-cluster-on-climate-94cfad8d.md"
     },
     {
@@ -896,7 +1296,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-10-20-learning-about-earnings-can-we-rely-on-labour-market-slack-t-42d78c43.md"
     },
     {
@@ -912,7 +1312,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/bank-insights/2026-10-19-inflation-in-central-sectors-with-rigid-prices-a-granular-me-8be08aa0.md"
     },
     {
@@ -928,7 +1328,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-10-16-financial-innovation-dollar-dominance-and-their-uk-monetary-34b6b008.md"
     },
     {
@@ -944,7 +1344,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/news/2026-10-16-banknote-imagery-advisory-group-minutes-15-july-2026-d75ecc94.md"
     },
     {
@@ -960,7 +1360,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-10-15-bank-of-england-weekly-report-14-october-2026-5f4d4e08.md"
     },
     {
@@ -976,7 +1376,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-10-15-david-roberts-cv-and-questionnaire-for-the-treasury-select-c-9657f73d.md"
     },
     {
@@ -992,7 +1392,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/publications/2026-10-15-review-of-ccp-collateral-rules-letters-of-credit-81ac97f6.md"
     },
     {
@@ -1008,7 +1408,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-15-minutes-of-the-sonia-stakeholder-advisory-group-25-september-488ad0b8.md"
     },
     {
@@ -1024,7 +1424,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/speeches/2026-10-15-the-importance-of-public-engagement-in-maintaining-trust-in-ea7d6481.md"
     },
     {
@@ -1040,7 +1440,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-10-14-ss2-26-high-loan-to-income-lending-f99ef9c3.md"
     },
     {
@@ -1056,7 +1456,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-10-14-ps19-26-high-loan-to-income-lending-76349ccb.md"
     },
     {
@@ -1072,7 +1472,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-13-minutes-of-the-money-market-committee-meeting-september-2026-5b437add.md"
     },
     {
@@ -1088,7 +1488,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-10-09-navigating-climate-policy-shocks-optimal-monetary-policy-res-59dd18e4.md"
     },
     {
@@ -1104,7 +1504,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-10-09-domestic-and-foreign-insurer-corporate-bond-demand-and-monet-14724e6e.md"
     },
     {
@@ -1120,7 +1520,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/publications/2026-10-09-sorting-into-entrepreneurial-teams-b504f68f.md"
     },
     {
@@ -1136,7 +1536,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/news/2026-10-09-cmorg-holds-sector-wide-cloud-outage-simulation-exercise-95a84b00.md"
     },
     {
@@ -1152,7 +1552,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-10-08-bank-of-england-weekly-report-7-october-2026-f0c10e2c.md"
     },
     {
@@ -1168,7 +1568,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/speeches/2026-10-08-financial-resilience-in-an-age-of-repeated-shocks-speech-by-07312d1a.md"
     },
     {
@@ -1184,7 +1584,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/publications/2026-10-08-credit-conditions-survey-2026-q3-1442d6ef.md"
     },
     {
@@ -1200,7 +1600,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/publications/2026-10-08-bank-liabilities-survey-2026-q3-42d6a2fa.md"
     },
     {
@@ -1216,7 +1616,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/news/2026-10-07-bank-of-england-announces-the-four-animals-that-will-feature-6ec5f7fc.md"
     },
     {
@@ -1232,7 +1632,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-10-07-bank-of-england-to-hear-the-views-of-the-people-in-cheshire-4b7de039.md"
     },
     {
@@ -1248,7 +1648,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-07-minutes-of-the-london-fxjsc-legal-sub-committee-meeting-16-j-ffaea719.md"
     },
     {
@@ -1264,7 +1664,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-07-minutes-of-the-london-fxjsc-operations-sub-committee-meeting-9e5713ca.md"
     },
     {
@@ -1280,7 +1680,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-07-minutes-of-the-london-fxjsc-main-committee-meeting-24-june-2-57edb981.md"
     },
     {
@@ -1296,7 +1696,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/news/2026-10-07-regulatory-thresholds-set-to-shift-to-automatic-increases-56616969.md"
     },
     {
@@ -1312,7 +1712,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-10-07-cp13-26-the-prudential-regulation-authority-s-automatic-thre-f806a5d1.md"
     },
     {
@@ -1328,7 +1728,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-10-06-minutes-of-the-uk-money-markets-code-sub-committee-september-0981c2e3.md"
     },
     {
@@ -1344,7 +1744,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-10-06-consolidated-balance-sheet-30-june-2025-25b68cdc.md"
     },
     {
@@ -1360,7 +1760,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/speeches/2026-10-05-more-than-a-change-of-address-reflections-from-previous-part-a29aa41c.md"
     },
     {
@@ -1376,7 +1776,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-10-05-uk-international-reserves-september-2026-2c8725cc.md"
     },
     {
@@ -1392,7 +1792,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-10-02-monthly-decision-maker-panel-data-september-2026-10a8d315.md"
     },
     {
@@ -1408,7 +1808,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/news/2026-10-02-appointment-of-members-of-the-enforcement-decision-making-co-b641cc4f.md"
     },
     {
@@ -1424,7 +1824,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-10-01-bank-of-england-weekly-report-30-september-2026-2b40b580.md"
     },
     {
@@ -1440,7 +1840,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/publications/2026-10-01-scottish-and-northern-ireland-banknote-issuance-annual-repor-f83bc7b1.md"
     },
     {
@@ -1456,7 +1856,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/speeches/2026-10-01-new-horizons-the-legal-and-commercial-frontier-of-digital-as-82baa2d5.md"
     },
     {
@@ -1472,7 +1872,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-10-01-minutes-of-the-meeting-of-the-court-of-directors-held-on-16-865bfcef.md"
     },
     {
@@ -1488,7 +1888,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-10-01-financial-conditions-what-s-priced-in-speech-by-catherine-l-53725516.md"
     },
     {
@@ -1504,7 +1904,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-10-01-examining-bank-lending-to-high-growth-firms-2c2a6d9f.md"
     },
     {
@@ -1520,7 +1920,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-10-01-pra-regulatory-digest-september-2026-24880369.md"
     },
     {
@@ -1536,7 +1936,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-10-01-a-unique-vantage-point-speech-by-nathana-l-benjamin-ce591824.md"
     },
     {
@@ -1552,7 +1952,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/events/2026-10-01-bank-of-england-future-of-money-conference-4492a28b.md"
     },
     {
@@ -1568,7 +1968,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-09-30-letter-from-david-bailey-thematic-feedback-on-accounting-for-1ab461a9.md"
     },
     {
@@ -1584,7 +1984,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2026-09-30-how-will-ai-affect-jobs-and-wages-fc1b465d.md"
     },
     {
@@ -1600,7 +2000,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/publications/2026-09-30-systemic-risk-survey-results-2026-h2-dadf5fff.md"
     },
     {
@@ -1616,7 +2016,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/bank-insights/2026-09-30-frontier-ai-and-the-question-of-governance-66763061.md"
     },
     {
@@ -1632,7 +2032,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/news/2026-09-30-financial-policy-committee-record-september-2026-e58b9a74.md"
     },
     {
@@ -1648,7 +2048,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-09-30-banking-sector-regulatory-capital-2026-q2-8a9dc520.md"
     },
     {
@@ -1664,7 +2064,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/speeches/2026-09-29-searching-for-signposts-speech-by-alan-taylor-2b403822.md"
     },
     {
@@ -1680,7 +2080,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-09-29-who-benefits-when-banks-go-digital-41bdbe58.md"
     },
     {
@@ -1696,7 +2096,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-09-29-money-and-credit-august-2026-56d38a38.md"
     },
     {
@@ -1712,7 +2112,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-09-29-effective-interest-rates-august-2026-8a7c0f63.md"
     },
     {
@@ -1728,7 +2128,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/events/2026-09-28-7th-international-capital-flows-and-financial-policies-works-f594ca25.md"
     },
     {
@@ -1744,7 +2144,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-09-28-quantitative-tightening-the-next-chapter-speech-by-dave-rams-72c65c73.md"
     },
     {
@@ -1760,7 +2160,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-09-28-dave-ramsden-speech-on-quantitative-tightening-6c693556.md"
     },
     {
@@ -1776,7 +2176,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/publications/2026-09-25-inflation-composition-and-monetary-stabilization-62adf551.md"
     },
     {
@@ -1792,7 +2192,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-09-25-the-pra-held-a-captive-insurance-industry-roundtable-00d1c00a.md"
     },
     {
@@ -1808,7 +2208,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-09-25-capital-issuance-august-2026-b9daf436.md"
     },
     {
@@ -1824,7 +2224,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-25-minutes-of-the-market-participants-group-meeting-24-septembe-06a73f3e.md"
     },
     {
@@ -1840,7 +2240,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/publications/2026-09-24-bank-of-england-weekly-report-23-september-2026-367021ab.md"
     },
     {
@@ -1856,7 +2256,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-09-24-who-finances-uk-business-c2259e53.md"
     },
     {
@@ -1872,7 +2272,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-09-24-the-outlook-for-inflation-speech-by-clare-lombardelli-e4cf8ac4.md"
     },
     {
@@ -1888,7 +2288,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-09-23-banking-services-for-central-bank-customers-c12ad199.md"
     },
     {
@@ -1904,7 +2304,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/speeches/2026-09-23-no-bank-too-big-to-fail-and-none-too-small-to-resolve-speech-607ba7a1.md"
     },
     {
@@ -1920,7 +2320,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-09-22-foreign-currency-reserves-2026-market-notice-22-september-20-89c5ba38.md"
     },
     {
@@ -1936,7 +2336,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/publications/2026-09-22-the-bank-of-england-s-fees-regime-for-recognised-payment-sys-7b8df66b.md"
     },
     {
@@ -1952,7 +2352,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/bank-insights/2026-09-22-finance-growth-and-productive-investment-what-is-the-fpc-ass-205fd9c8.md"
     },
     {
@@ -1968,7 +2368,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-09-21-bank-of-england-announces-new-office-space-in-leeds-28b3199f.md"
     },
     {
@@ -1984,7 +2384,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-09-21-foreign-currency-reserves-2026-market-notice-21-september-20-e1b27245.md"
     },
     {
@@ -2000,7 +2400,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/publications/2026-09-18-one-dollar-many-prices-dealer-specific-pricing-of-synthetic-6e854ca0.md"
     },
     {
@@ -2016,7 +2416,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/news/2026-09-18-minutes-of-the-transaction-and-post-trade-reporting-harmonis-562385ed.md"
     },
     {
@@ -2048,7 +2448,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-09-18-consolidated-worldwide-claims-2026-q2-2e8618ec.md"
     },
     {
@@ -2080,7 +2480,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-17-transcript-of-the-governor-s-pooled-broadcast-interview-give-88f57390.md"
     },
     {
@@ -2096,7 +2496,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-17-monetary-policy-committee-dates-for-2027-b1919701.md"
     },
     {
@@ -2112,7 +2512,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/bank-insights/2026-09-17-the-promise-to-pay-what-backs-banknotes-dba57d39.md"
     },
     {
@@ -2128,7 +2528,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-17-exchange-of-letters-between-the-governor-and-the-chancellor-1657447b.md"
     },
     {
@@ -2144,7 +2544,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-17-exchange-of-letters-between-the-governor-and-the-chancellor-6b5c3e18.md"
     },
     {
@@ -2160,7 +2560,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-17-bank-rate-maintained-at-3-75-september-2026-monetary-policy-0570d12c.md"
     },
     {
@@ -2176,7 +2576,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-09-17-asset-purchase-facility-gilt-sales-market-notice-17-septembe-f37ac78d.md"
     },
     {
@@ -2192,7 +2592,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-09-16-chancellor-announces-bank-of-england-appointments-ecc66250.md"
     },
     {
@@ -2208,7 +2608,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/speeches/2026-09-15-money-and-power-lessons-from-history-for-stablecoins-and-us-b8f4e9a5.md"
     },
     {
@@ -2224,7 +2624,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/news/2026-09-15-statistical-notice-2026-08-changes-to-the-criteria-for-month-011fe8c0.md"
     },
     {
@@ -2240,7 +2640,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-09-15-minutes-of-the-securities-lending-committee-meeting-march-20-10664aca.md"
     },
     {
@@ -2304,7 +2704,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-09-10-announcement-of-the-publication-of-the-governor-s-interview-fdf304da.md"
     },
     {
@@ -2320,7 +2720,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-09-08-treasury-select-committee-on-the-july-monetary-policy-report-35a2ab06.md"
     },
     {
@@ -2336,7 +2736,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-09-08-mortgage-lenders-and-administrators-statistics-2026-q2-0fd0acc3.md"
     },
     {
@@ -2384,7 +2784,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/speeches/2026-09-04-the-institutional-form-of-independent-central-banks-from-his-528e73bd.md"
     },
     {
@@ -2416,7 +2816,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-09-04-external-business-of-monetary-financial-institutions-operati-431042bb.md"
     },
     {
@@ -2432,7 +2832,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-09-03-homophones-remarks-by-huw-pill-8b8fa286.md"
     },
     {
@@ -2464,7 +2864,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-09-03-uk-international-reserves-august-2026-44e946ea.md"
     },
     {
@@ -2496,7 +2896,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/knowledgebank/2026-09-01-how-will-ai-affect-the-economy-385230bb.md"
     },
     {
@@ -2512,7 +2912,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-09-01-money-and-credit-july-2026-6d2f6a13.md"
     },
     {
@@ -2528,7 +2928,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-09-01-effective-interest-rates-july-2026-565f2b0a.md"
     },
     {
@@ -2592,7 +2992,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-08-28-credit-union-quarterly-statistics-2026-q1-15e058db.md"
     },
     {
@@ -2624,7 +3024,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/news/2026-08-27-delay-to-the-november-2026-rtgs-standards-release-dae90b51.md"
     },
     {
@@ -2640,7 +3040,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-08-27-capital-issuance-july-2026-ad3d2b47.md"
     },
     {
@@ -2656,7 +3056,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/news/2026-08-11-results-of-the-semi-annual-fx-turnover-surveys-in-april-2026-8f15acf8.md"
     },
     {
@@ -2672,7 +3072,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/news/2026-08-06-green-notice-2026-02-dbf9c330.md"
     },
     {
@@ -2688,7 +3088,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-08-06-bank-of-england-to-hear-the-views-of-the-people-in-durham-ab-bfd8c074.md"
     },
     {
@@ -2704,7 +3104,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/news/2026-08-05-artificial-intelligence-consortium-minutes-june-2026-4979e8c7.md"
     },
     {
@@ -2720,7 +3120,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-08-05-uk-international-reserves-july-2026-e5885365.md"
     },
     {
@@ -2736,7 +3136,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-08-03-agency-national-mpr-briefing-july-2026-922135c3.md"
     },
     {
@@ -2752,7 +3152,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-08-03-pra-regulatory-digest-july-2026-261aeaad.md"
     },
     {
@@ -2768,7 +3168,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/news/2026-08-03-appointment-of-chair-and-deputy-chair-of-the-enforcement-dec-0f5350f7.md"
     },
     {
@@ -2784,7 +3184,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-07-31-credit-union-annual-statistics-2025-17504cd8.md"
     },
     {
@@ -2800,7 +3200,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/news/2026-07-30-minutes-of-the-meeting-of-the-court-of-directors-held-on-4-j-d86fcc88.md"
     },
     {
@@ -2816,7 +3216,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/news/2026-07-30-bank-rate-maintained-at-3-75-july-2026-monetary-policy-summa-daa6d477.md"
     },
     {
@@ -2832,7 +3232,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-29-ps18-26-solvency-uk-post-implementation-reporting-and-disclo-e6b21cbe.md"
     },
     {
@@ -2848,7 +3248,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-29-liaf02-26-low-impact-amendments-finalisation-july-2026-6130282b.md"
     },
     {
@@ -2864,7 +3264,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-29-liac02-26-low-impact-amendments-consultation-july-2026-a5a03a4e.md"
     },
     {
@@ -2880,7 +3280,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-07-29-money-and-credit-june-2026-aa1611ee.md"
     },
     {
@@ -2896,7 +3296,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-07-29-effective-interest-rates-june-2026-f65e20cb.md"
     },
     {
@@ -2912,7 +3312,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-07-27-capital-issuance-june-2026-b01fc59e.md"
     },
     {
@@ -2928,7 +3328,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/news/2026-07-23-letter-from-the-governor-to-the-daily-mail-84b38d4e.md"
     },
     {
@@ -2944,7 +3344,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/news/2026-07-22-pra-consults-on-updated-guidance-for-friendly-society-amalga-6f3d5c0d.md"
     },
     {
@@ -2960,7 +3360,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-22-cp12-26-insurance-friendly-societies-amalgamations-and-trans-c1a0e1cc.md"
     },
     {
@@ -2976,7 +3376,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-07-21-it-s-all-about-the-role-of-money-speech-by-nathana-l-benjami-ada504f7.md"
     },
     {
@@ -3008,7 +3408,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/bank-insights/2026-07-17-bank-rate-expectations-in-the-uk-curve-following-the-war-in-cc081113.md"
     },
     {
@@ -3024,7 +3424,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/bank-insights/2026-07-17-gilt-edged-resilience-strengthening-liquidity-provision-in-t-66d8b19d.md"
     },
     {
@@ -3040,7 +3440,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-07-16-making-scenarios-add-up-spanning-risks-with-scenario-synthes-98e9c771.md"
     },
     {
@@ -3056,7 +3456,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/speeches/2026-07-15-the-role-of-research-in-prudential-regulation-speech-by-davi-e4996b5c.md"
     },
     {
@@ -3072,7 +3472,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2026-07-15-what-is-tokenisation-6efeb095.md"
     },
     {
@@ -3088,7 +3488,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/speeches/2026-07-14-growth-and-regulation-speech-by-andrew-bailey-ee5dbebb.md"
     },
     {
@@ -3104,7 +3504,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-14-ps16-26-pra-rule-changes-to-accommodate-hm-treasury-s-overse-9ac002d3.md"
     },
     {
@@ -3136,7 +3536,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-14-cp11-26-a-tailored-regime-for-captive-insurance-c136fe49.md"
     },
     {
@@ -3152,7 +3552,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-14-cp10-26-ring-fenced-bodies-changes-to-the-continuity-of-prov-665e1019.md"
     },
     {
@@ -3168,7 +3568,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/events/2026-07-14-treasury-select-committee-on-the-july-financial-stability-re-29d8d963.md"
     },
     {
@@ -3184,7 +3584,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-07-13-testing-times-require-time-for-testing-speech-by-ruth-smith-ec30ff87.md"
     },
     {
@@ -3200,7 +3600,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/bank-insights/2026-07-09-from-mayfair-to-the-caymans-mapping-and-quantifying-non-bank-361e7651.md"
     },
     {
@@ -3216,7 +3616,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-07-08-bank-of-england-to-hear-the-views-of-the-people-in-kent-abou-b082f1f8.md"
     },
     {
@@ -3232,7 +3632,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-08-ps17-26-regulated-fees-and-levies-rates-proposals-2026-27-8214ced8.md"
     },
     {
@@ -3248,7 +3648,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-07-07-bank-of-england-to-hear-the-views-of-the-people-in-sussex-ab-a0208358.md"
     },
     {
@@ -3264,7 +3664,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-07-prudential-regulation-authority-statement-on-enhancing-the-u-4c2b792d.md"
     },
     {
@@ -3280,7 +3680,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-07-03-uk-international-reserves-june-2026-9c3d9d87.md"
     },
     {
@@ -3296,7 +3696,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-07-02-mixed-signals-research-findings-and-policy-judgements-speech-2714d6a2.md"
     },
     {
@@ -3312,7 +3712,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-01-pra-regulatory-digest-june-2026-ef923f20.md"
     },
     {
@@ -3328,7 +3728,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-07-01-fscs-protected-deposit-reporting-requirements-80b86ad0.md"
     },
     {
@@ -3344,7 +3744,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-06-30-bank-of-england-to-hear-the-views-of-the-people-of-devon-abo-c93266e4.md"
     },
     {
@@ -3360,7 +3760,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-06-30-agents-of-change-speech-by-sarah-breeden-45af3396.md"
     },
     {
@@ -3376,7 +3776,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-06-30-banking-sector-regulatory-capital-2026-q1-a1075fde.md"
     },
     {
@@ -3392,7 +3792,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-06-29-money-and-credit-may-2026-427e05e5.md"
     },
     {
@@ -3408,7 +3808,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-06-29-effective-interest-rates-may-2026-b7c96449.md"
     },
     {
@@ -3424,7 +3824,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/bank-insights/2026-06-26-the-second-macro-modelling-for-monetary-policy-forum-continu-b00740af.md"
     },
     {
@@ -3440,7 +3840,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-06-25-bank-of-england-to-hear-the-views-of-the-people-of-lancashir-3788e5ef.md"
     },
     {
@@ -3456,7 +3856,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-25-prudential-regulation-authority-s-pra-cost-benefit-analysis-f8fa712c.md"
     },
     {
@@ -3472,7 +3872,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-25-prudential-regulation-authority-annual-report-2025-26-75735c74.md"
     },
     {
@@ -3488,7 +3888,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-25-prescribed-persons-reports-on-disclosures-of-information-reg-573da6fd.md"
     },
     {
@@ -3504,7 +3904,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-25-enforcement-decision-making-committee-report-2025-26-d4b511a9.md"
     },
     {
@@ -3520,7 +3920,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-25-accountability-of-the-prudential-regulation-authority-for-de-32b653fc.md"
     },
     {
@@ -3536,7 +3936,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2026-06-25-what-are-payments-and-how-might-they-change-d96fc023.md"
     },
     {
@@ -3552,7 +3952,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/speeches/2026-06-25-a-sea-change-in-regulatory-investigations-and-enforcement-sp-dfffb596.md"
     },
     {
@@ -3568,7 +3968,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-06-25-capital-issuance-may-2026-6721f21b.md"
     },
     {
@@ -3584,7 +3984,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/climate-sustainability/speeches/2026-06-24-running-on-empty-climate-risks-and-the-fragility-of-global-e-df41f911.md"
     },
     {
@@ -3600,7 +4000,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-06-23-bank-of-england-to-hear-the-views-of-the-people-in-north-wal-66eb1877.md"
     },
     {
@@ -3616,7 +4016,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/speeches/2026-06-23-central-reservations-speech-by-alan-taylor-8caab848.md"
     },
     {
@@ -3632,7 +4032,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-06-23-transformative-artificial-intelligence-ai-implications-for-s-11c4fd2b.md"
     },
     {
@@ -3648,7 +4048,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-06-19-what-drives-differences-in-commercial-banks-product-level-re-0e50503f.md"
     },
     {
@@ -3664,7 +4064,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-06-19-consolidated-worldwide-claims-2026-q1-aca4b42b.md"
     },
     {
@@ -3680,7 +4080,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-19-cp9-26-basel-3-1-adjustments-to-the-internal-model-approach-d14da336.md"
     },
     {
@@ -3696,7 +4096,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/events/2026-06-17-pra-and-fca-dual-regulated-variations-of-permission-vop-indu-2017c270.md"
     },
     {
@@ -3712,7 +4112,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-06-16-it-s-coming-home-speech-by-shoib-khan-e3888752.md"
     },
     {
@@ -3728,7 +4128,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-06-09-mortgage-lenders-and-administrators-statistics-2026-q1-42be1434.md"
     },
     {
@@ -3744,7 +4144,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-06-05-external-business-of-monetary-financial-institutions-operati-aa91b854.md"
     },
     {
@@ -3760,7 +4160,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-06-04-bank-of-england-to-hear-the-views-of-the-people-of-the-west-f86c0e0f.md"
     },
     {
@@ -3776,7 +4176,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-06-03-uk-international-reserves-may-2026-4211f938.md"
     },
     {
@@ -3792,7 +4192,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-06-02-here-we-go-again-assessing-the-inflation-risks-of-the-recent-c6f26453.md"
     },
     {
@@ -3808,7 +4208,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/events/2026-06-02-oral-evidence-to-the-lords-economic-affairs-committee-68b6471c.md"
     },
     {
@@ -3824,7 +4224,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-06-02-money-and-credit-april-2026-4af00c06.md"
     },
     {
@@ -3840,7 +4240,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-06-02-effective-interest-rates-april-2026-37725e81.md"
     },
     {
@@ -3856,7 +4256,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-06-01-pra-regulatory-digest-may-2026-e7d50966.md"
     },
     {
@@ -3872,7 +4272,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/bank-insights/2026-05-29-the-mpc-s-remit-and-trade-off-management-05e534fc.md"
     },
     {
@@ -3888,7 +4288,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-05-29-remaining-anchored-monetary-policy-in-an-unpredictable-world-ebd2a70c.md"
     },
     {
@@ -3904,7 +4304,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-05-29-capital-issuance-april-2026-37926534.md"
     },
     {
@@ -3920,7 +4320,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-05-28-revisiting-the-economic-cost-of-bank-capital-what-has-change-5e39e664.md"
     },
     {
@@ -3936,7 +4336,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-28-ps15-26-pillar-2a-review-phase-1-34bb4c72.md"
     },
     {
@@ -3952,7 +4352,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-27-ps14-26-crr-definitions-restatement-in-pra-rulebook-9bb9bac8.md"
     },
     {
@@ -3968,7 +4368,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/speeches/2026-05-21-can-ai-make-cutlery-speech-by-andrew-bailey-60c871cb.md"
     },
     {
@@ -3984,7 +4384,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-05-21-looking-at-policy-holistically-the-case-of-securitisation-29a9bf05.md"
     },
     {
@@ -4000,7 +4400,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-21-ps13-26-insurance-third-country-branches-policy-implementati-84dc9bd5.md"
     },
     {
@@ -4016,7 +4416,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-05-20-treasury-select-committee-on-the-april-monetary-policy-repor-e21d008c.md"
     },
     {
@@ -4032,7 +4432,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/speeches/2026-05-19-modernising-money-and-markets-speech-by-sarah-breeden-65e01ffe.md"
     },
     {
@@ -4048,7 +4448,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-18-letter-from-david-bailey-charlotte-gerken-and-rebecca-jackso-10921894.md"
     },
     {
@@ -4064,7 +4464,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-18-letter-from-david-bailey-charlotte-gerken-and-rebecca-jackso-96231c32.md"
     },
     {
@@ -4080,7 +4480,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-15-results-of-the-firm-feedback-survey-2025-aaab9e20.md"
     },
     {
@@ -4096,7 +4496,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-05-14-slides-from-huw-pill-s-fireside-chat-at-natwest-cb35e24d.md"
     },
     {
@@ -4112,7 +4512,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/speeches/2026-05-14-operational-resilience-in-a-rapidly-changing-world-speech-by-cdf55dd3.md"
     },
     {
@@ -4128,7 +4528,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/speeches/2026-05-14-the-importance-of-choice-in-payments-speech-by-victoria-clel-f9927545.md"
     },
     {
@@ -4144,7 +4544,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-05-13-bank-of-england-to-hear-the-views-of-people-in-yorkshire-abo-fab795ff.md"
     },
     {
@@ -4160,7 +4560,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/speeches/2026-05-13-old-exposures-new-actors-implications-for-monetary-policy-of-76d2dbad.md"
     },
     {
@@ -4176,7 +4576,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/speeches/2026-05-12-clinical-supervision-speech-by-sam-woods-671222a1.md"
     },
     {
@@ -4192,7 +4592,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-05-12-agency-national-mpr-briefing-may-2026-288a34e4.md"
     },
     {
@@ -4208,7 +4608,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-05-11-6th-university-of-oxford-federal-reserve-bank-of-new-york-an-da0e6696.md"
     },
     {
@@ -4224,7 +4624,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/events/2026-05-06-bank-of-england-s-2026-bear-conference-the-interconnected-wo-d6b47864.md"
     },
     {
@@ -4240,7 +4640,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-05-06-uk-international-reserves-april-2026-8e5d3c39.md"
     },
     {
@@ -4256,7 +4656,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-05-01-pra-regulatory-digest-april-2026-a163432a.md"
     },
     {
@@ -4272,7 +4672,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-05-01-money-and-credit-march-2026-d9890ab4.md"
     },
     {
@@ -4288,7 +4688,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-05-01-effective-interest-rates-march-2026-6846f4d1.md"
     },
     {
@@ -4304,7 +4704,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-04-30-credit-union-quarterly-statistics-2025-q4-17e22131.md"
     },
     {
@@ -4320,7 +4720,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-29-sop14-24-the-prudential-regulation-authority-s-approach-to-c-88bdf298.md"
     },
     {
@@ -4336,7 +4736,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-29-prudential-regulation-authority-s-statement-in-relation-to-h-8e74d049.md"
     },
     {
@@ -4352,7 +4752,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-29-the-pra-s-standard-cost-model-1b0d8118.md"
     },
     {
@@ -4368,7 +4768,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-29-sop14-24-the-prudential-regulation-authority-s-approach-to-c-7096f5ff.md"
     },
     {
@@ -4384,7 +4784,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/speeches/2026-04-29-innovation-and-resilience-in-the-bpa-sector-speech-by-gareth-89375471.md"
     },
     {
@@ -4400,7 +4800,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-04-29-capital-issuance-march-2026-680375f8.md"
     },
     {
@@ -4416,7 +4816,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-29-cp8-26-funded-reinsurance-f619dc5e.md"
     },
     {
@@ -4432,7 +4832,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/speeches/2026-04-28-maintaining-momentum-progress-in-mutual-supervision-speech-b-2fb43f53.md"
     },
     {
@@ -4448,7 +4848,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-04-28-the-court-of-directors-of-the-bank-of-england-14d16604.md"
     },
     {
@@ -4464,7 +4864,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/speeches/2026-04-28-building-a-banking-regime-for-the-future-speech-by-david-bai-21a297c4.md"
     },
     {
@@ -4480,7 +4880,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-23-liaf01-26-low-impact-amendments-finalisation-april-2026-72e263f3.md"
     },
     {
@@ -4496,7 +4896,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-23-liac01-26-low-impact-amendments-consultation-april-2026-32407ee4.md"
     },
     {
@@ -4512,7 +4912,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-22-ps12-26-review-of-the-senior-managers-and-certification-regi-1c6a9418.md"
     },
     {
@@ -4528,7 +4928,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/speeches/2026-04-17-this-time-is-different-speech-by-sarah-breeden-4cd64084.md"
     },
     {
@@ -4560,7 +4960,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/prudential-regulation-publications/2026-04-17-cp7-26-regulated-fees-and-levies-rates-proposals-2026-27-9ba688b7.md"
     },
     {
@@ -4576,7 +4976,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/bank-insights/2026-04-16-mind-the-gap-a-uk-microprudential-perspective-on-general-ins-78b9a62a.md"
     },
     {
@@ -4592,7 +4992,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/events/2026-04-15-treasury-select-committee-pre-commencement-hearing-aaab3bec.md"
     },
     {
@@ -4608,7 +5008,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/speeches/2026-04-14-central-bank-independence-in-need-of-further-thinking-speech-8398cf1d.md"
     },
     {
@@ -4624,7 +5024,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/speeches/2026-04-13-two-way-street-speech-by-alan-taylor-475ea421.md"
     },
     {
@@ -4640,7 +5040,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-04-13-responding-to-crises-how-the-bank-stays-ready-eed83935.md"
     },
     {
@@ -4656,7 +5056,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/bank-insights/2026-04-07-this-time-it-s-personal-the-rise-of-dynamic-personalised-pri-37fe59f0.md"
     },
     {
@@ -4672,7 +5072,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-04-07-uk-international-reserves-march-2026-d9b75877.md"
     },
     {
@@ -4720,7 +5120,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/bank-insights/2026-03-31-being-ready-for-cross-border-resolution-lessons-from-credit-3bb62079.md"
     },
     {
@@ -4752,7 +5152,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/statistics/2026-03-31-banking-sector-regulatory-capital-2025-q4-24264408.md"
     },
     {
@@ -4768,7 +5168,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2026-03-30-global-imbalances-are-back-bbf7ad21.md"
     },
     {
@@ -4784,7 +5184,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-03-30-money-and-credit-february-2026-93a44c9f.md"
     },
     {
@@ -4800,7 +5200,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/statistics/2026-03-30-effective-interest-rates-february-2026-5cfebcfb.md"
     },
     {
@@ -4816,7 +5216,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/bank-insights/2026-03-27-resilience-and-readiness-across-the-sterling-monetary-framew-04f3b0e7.md"
     },
     {
@@ -4832,7 +5232,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/speeches/2026-03-26-stopping-for-gas-speech-by-alan-taylor-8b69dcea.md"
     },
     {
@@ -4848,7 +5248,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-03-26-capital-issuance-february-2026-d7e6815e.md"
     },
     {
@@ -4864,7 +5264,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-03-24-bank-of-england-to-hear-the-views-of-the-people-in-glouceste-d5e3951d.md"
     },
     {
@@ -4896,7 +5296,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-03-20-consolidated-worldwide-claims-2025-q4-80b9099a.md"
     },
     {
@@ -4912,7 +5312,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-03-19-bank-of-england-to-hear-the-views-of-the-people-in-south-wal-55e7b518.md"
     },
     {
@@ -4928,7 +5328,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-03-10-mortgage-lenders-and-administrators-statistics-2025-q4-b6351b2d.md"
     },
     {
@@ -4944,7 +5344,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-03-06-external-business-of-monetary-financial-institutions-operati-8f5f1b1b.md"
     },
     {
@@ -4960,7 +5360,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/markets-operations/statistics/2026-03-04-uk-international-reserves-february-2026-9aa91a7b.md"
     },
     {
@@ -4976,7 +5376,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-03-04-analysing-the-information-content-of-money-320cc9dc.md"
     },
     {
@@ -4992,7 +5392,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/events/2026-03-02-public-accounts-committee-hearing-the-bank-of-england-s-real-3f4f6e62.md"
     },
     {
@@ -5008,7 +5408,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/statistics-data/statistics/2026-03-02-money-and-credit-january-2026-e88182b6.md"
     },
     {
@@ -5024,7 +5424,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-02-25-bank-of-england-to-hear-the-views-of-people-in-somerset-abou-487875c2.md"
     },
     {
@@ -5040,7 +5440,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-02-24-treasury-select-committee-on-the-february-monetary-policy-re-f44b4b70.md"
     },
     {
@@ -5056,7 +5456,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-02-06-huw-pill-fergal-shortall-mauricio-armellini-agency-national-8a78cbfe.md"
     },
     {
@@ -5072,7 +5472,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-02-03-bank-of-england-to-hear-the-views-of-the-people-in-northampt-6c9106ff.md"
     },
     {
@@ -5088,7 +5488,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-01-26-bank-of-england-to-hear-the-views-of-the-people-in-north-lon-1aa0c543.md"
     },
     {
@@ -5104,7 +5504,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/bank-insights/2026-01-23-what-were-the-drivers-of-uk-long-term-interest-rates-in-2025-6bd1ca75.md"
     },
     {
@@ -5120,7 +5520,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/events/2026-01-21-sam-woods-david-bailey-antony-jenkins-and-marjorie-ngwenya-t-01dd27c6.md"
     },
     {
@@ -5136,7 +5536,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/events/2026-01-20-andrew-bailey-dave-ramsden-liz-oakes-and-jonathan-hall-treas-f92cda65.md"
     },
     {
@@ -5152,7 +5552,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/events/2026-01-19-phd-internship-q-a-event-2026-1548383d.md"
     },
     {
@@ -5168,7 +5568,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/bank-insights/2026-01-09-planning-to-fail-what-resolution-is-and-why-it-matters-6d475892.md"
     },
     {
@@ -5184,7 +5584,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/events/2025-12-10-meridian-securities-10-december-2025-webinar-recording-429a011e.md"
     },
     {
@@ -5216,7 +5616,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/research-analysis/bank-insights/2025-12-08-learning-to-navigate-bumps-in-the-road-75d8ce4e.md"
     },
     {
@@ -5232,7 +5632,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/bank-insights/2025-12-05-from-magnifying-glass-to-drone-using-ai-to-spot-reserving-ri-32b67330.md"
     },
     {
@@ -5280,7 +5680,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2025-04-02-what-is-the-fscs-and-what-is-the-new-deposit-protection-limi-63a0324e.md"
     },
     {
@@ -5296,7 +5696,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2024-12-09-how-much-do-we-spend-during-the-festive-season-b5cdb6b2.md"
     },
     {
@@ -5312,7 +5712,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2023-11-06-what-are-stablecoins-and-how-do-they-work-fd5504fe.md"
     },
     {
@@ -5328,7 +5728,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/events/2023-09-18-conference-on-the-role-of-financial-regulation-in-internatio-10e6649d.md"
     },
     {
@@ -5344,7 +5744,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2023-05-11-how-do-higher-interest-rates-help-to-lower-inflation-1d245b8e.md"
     },
     {
@@ -5360,7 +5760,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2023-03-24-what-happened-to-silicon-valley-bank-uk-b4c5c14c.md"
     },
     {
@@ -5376,7 +5776,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2023-02-07-what-is-the-digital-pound-e77546a7.md"
     },
     {
@@ -5392,7 +5792,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2023-02-07-explainers-c92e1103.md"
     },
     {
@@ -5408,7 +5808,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2022-04-28-what-is-cbdc-ebb7363a.md"
     },
     {
@@ -5424,7 +5824,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/climate-sustainability/knowledgebank/2022-02-14-how-is-the-bank-of-england-responding-to-climate-change-5772324d.md"
     },
     {
@@ -5440,7 +5840,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/events/2021-12-30-community-forums-in-2020-2021-492e4def.md"
     },
     {
@@ -5456,7 +5856,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2021-12-17-why-have-interest-rates-gone-up-in-the-uk-954a7423.md"
     },
     {
@@ -5472,7 +5872,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2021-12-14-inflation-and-interest-rates-f0bdcf69.md"
     },
     {
@@ -5488,7 +5888,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2021-12-10-what-is-inflation-cfca87de.md"
     },
     {
@@ -5504,7 +5904,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/general/events/2021-06-29-webinar-to-discuss-options-for-greening-the-bank-of-england-c1d0d52c.md"
     },
     {
@@ -5520,7 +5920,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2020-09-21-what-is-islamic-finance-50d98437.md"
     },
     {
@@ -5536,7 +5936,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2020-08-06-what-have-we-been-doing-to-support-the-economy-during-the-co-839aa8a2.md"
     },
     {
@@ -5552,7 +5952,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/knowledgebank/2019-10-30-who-pays-for-the-bank-of-england-3ee9e011.md"
     },
     {
@@ -5568,7 +5968,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2019-08-07-what-is-the-economy-66a41fe9.md"
     },
     {
@@ -5584,7 +5984,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2019-06-14-what-is-capital-e9c87d22.md"
     },
     {
@@ -5600,7 +6000,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2018-12-19-how-has-money-changed-over-time-77955c3a.md"
     },
     {
@@ -5616,7 +6016,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2018-11-26-what-do-i-need-to-know-about-debt-27abb160.md"
     },
     {
@@ -5632,7 +6032,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2018-10-09-what-is-the-prudential-regulation-authority-pra-db131bb5.md"
     },
     {
@@ -5648,7 +6048,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2018-10-02-what-are-cryptoassets-cryptocurrencies-d665bbdb.md"
     },
     {
@@ -5664,7 +6064,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/knowledgebank/2018-09-26-how-much-is-a-banknote-worth-16287277.md"
     },
     {
@@ -5680,7 +6080,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/knowledgebank/2018-07-05-what-is-financial-stability-56d18873.md"
     },
     {
@@ -5696,7 +6096,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/technology-ai/knowledgebank/2018-06-24-is-my-money-safe-from-cyber-attacks-9a58e634.md"
     },
     {
@@ -5712,7 +6112,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2018-06-12-what-does-insurance-cover-16f2e16e.md"
     },
     {
@@ -5728,7 +6128,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2018-05-24-how-do-card-payments-work-62ca3a1d.md"
     },
     {
@@ -5744,7 +6144,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2018-05-07-what-are-interest-rates-d0a251f9.md"
     },
     {
@@ -5760,7 +6160,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2018-03-23-how-is-money-created-4d12d8bb.md"
     },
     {
@@ -5776,7 +6176,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2018-03-07-what-is-deflation-2d7c154c.md"
     },
     {
@@ -5792,7 +6192,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2018-02-20-financial-market-infrastructures-what-happens-when-you-pay-025f0ed8.md"
     },
     {
@@ -5808,7 +6208,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2018-02-14-why-are-football-players-paid-so-much-2e9d171a.md"
     },
     {
@@ -5824,7 +6224,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2018-01-31-why-is-competition-important-in-banking-cc7ed2cb.md"
     },
     {
@@ -5840,7 +6240,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2018-01-18-what-risks-do-banks-take-5d83f5ed.md"
     },
     {
@@ -5856,7 +6256,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/prudential-regulation/knowledgebank/2018-01-03-why-do-we-regulate-banks-0b6f095d.md"
     },
     {
@@ -5872,7 +6272,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/knowledgebank/2017-12-19-how-do-we-know-how-much-money-to-print-0cfc512e.md"
     },
     {
@@ -5888,7 +6288,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2017-12-08-what-s-the-bank-of-england-s-role-in-the-housing-market-fb22c9a9.md"
     },
     {
@@ -5904,7 +6304,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2017-12-04-how-does-the-housing-market-affect-the-economy-eef57c15.md"
     },
     {
@@ -5920,7 +6320,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/banknotes/knowledgebank/2017-11-22-why-are-new-banknotes-made-of-polymer-c09759d1.md"
     },
     {
@@ -5936,7 +6336,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/corporate-governance/knowledgebank/2017-11-17-the-bank-of-england-in-literature-da587ad6.md"
     },
     {
@@ -5952,7 +6352,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/knowledgebank/2017-11-15-climate-change-what-are-the-risks-to-financial-stability-d4285a2f.md"
     },
     {
@@ -5968,7 +6368,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2017-11-08-what-is-money-43f12c6c.md"
     },
     {
@@ -5984,7 +6384,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2017-11-06-how-fast-can-the-economy-grow-c22f9eae.md"
     },
     {
@@ -6000,7 +6400,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/financial-stability/knowledgebank/2017-09-07-is-the-global-financial-system-any-safer-than-before-68cff365.md"
     },
     {
@@ -6016,7 +6416,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/monetary-policy/knowledgebank/2017-06-22-how-is-the-bank-of-england-independent-of-the-government-f1951adb.md"
     },
     {
@@ -6032,7 +6432,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/payments-digital-money/knowledgebank/2017-05-25-why-does-money-depend-on-trust-27d6e461.md"
     },
     {
@@ -6048,7 +6448,7 @@
       ],
       "rss_categories": [],
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-23",
       "path": "data/economy-society/knowledgebank/2017-05-17-how-will-driverless-cars-affect-the-economy-8cc16638.md"
     }
   ]

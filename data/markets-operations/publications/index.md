@@ -2,6 +2,7 @@
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 19 Nov 2026 | [Bank of England Weekly Report 18 November 2026](2026-11-19-bank-of-england-weekly-report-18-november-2026-520c4cca.md) | [boe](https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026) |
 | 12 Nov 2026 | [Bank of England Weekly Report 11 November 2026](2026-11-12-bank-of-england-weekly-report-11-november-2026-ed612e11.md) | [boe](https://www.bankofengland.co.uk/weekly-report/2026/11-november-2026) |
 | 06 Nov 2026 | [Price efficiency in securities lending](2026-11-06-price-efficiency-in-securities-lending-38331257.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending) |
 | 06 Nov 2026 | [The aggregate and distributional implications of credit shocks on housing and rental markets](2026-11-06-the-aggregate-and-distributional-implications-of-credit-shoc-3c1ea426.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets) |

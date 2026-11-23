@@ -2,7 +2,7 @@
 
 Sterling markets, the Bank's balance sheet, reserves, SONIA, gilts and the Weekly Report.
 
-**39 items** across 4 content types.
+**40 items** across 4 content types.
 
 
 ## News (11)
@@ -21,10 +21,11 @@ Sterling markets, the Bank's balance sheet, reserves, SONIA, gilts and the Weekl
 | 15 Sep 2026 | [Minutes of the Securities Lending Committee meeting – March 2026](news/2026-09-15-minutes-of-the-securities-lending-committee-meeting-march-20-10664aca.md) | [boe](https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026) |
 | 11 Aug 2026 | [Results of the Semi-Annual FX Turnover Surveys in April 2026](news/2026-08-11-results-of-the-semi-annual-fx-turnover-surveys-in-april-2026-8f15acf8.md) | [boe](https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026) |
 
-## Publications (18)
+## Publications (19)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 19 Nov 2026 | [Bank of England Weekly Report 18 November 2026](publications/2026-11-19-bank-of-england-weekly-report-18-november-2026-520c4cca.md) | [boe](https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026) |
 | 12 Nov 2026 | [Bank of England Weekly Report 11 November 2026](publications/2026-11-12-bank-of-england-weekly-report-11-november-2026-ed612e11.md) | [boe](https://www.bankofengland.co.uk/weekly-report/2026/11-november-2026) |
 | 06 Nov 2026 | [Price efficiency in securities lending](publications/2026-11-06-price-efficiency-in-securities-lending-38331257.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending) |
 | 06 Nov 2026 | [The aggregate and distributional implications of credit shocks on housing and rental markets](publications/2026-11-06-the-aggregate-and-distributional-implications-of-credit-shoc-3c1ea426.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets) |

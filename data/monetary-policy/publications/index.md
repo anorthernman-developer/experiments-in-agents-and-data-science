@@ -2,6 +2,7 @@
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 20 Nov 2026 | [When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness](2026-11-20-when-vacancies-become-cheap-vacancy-posting-costs-and-equili-bcd4fecc.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness) |
 | 10 Nov 2026 | [Asset Purchase Facility Quarterly Report - 2026 Q3](2026-11-10-asset-purchase-facility-quarterly-report-2026-q3-2be835a6.md) | [boe](https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3) |
 | 05 Nov 2026 | [Monetary Policy Report - November 2026](2026-11-05-monetary-policy-report-november-2026-ed71925f.md) | [boe](https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026) |
 | 30 Oct 2026 | [Monthly Decision Maker Panel data - October 2026](2026-10-30-monthly-decision-maker-panel-data-october-2026-c3f78c83.md) | [boe](https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026) |

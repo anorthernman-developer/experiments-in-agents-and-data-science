@@ -2,7 +2,7 @@
 
 Bank Rate, the MPC, inflation, the Monetary Policy Report, the Agents and the Asset Purchase Facility.
 
-**86 items** across 7 content types.
+**90 items** across 7 content types.
 
 
 ## Bank Insights (6)
@@ -16,13 +16,15 @@ Bank Rate, the MPC, inflation, the Monetary Policy Report, the Agents and the As
 | 07 Apr 2026 | [This time it's personal: the rise of dynamic, personalised pricing and what it means for inflation](bank-insights/2026-04-07-this-time-it-s-personal-the-rise-of-dynamic-personalised-pri-37fe59f0.md) | [boe](https://www.bankofengland.co.uk/bank-insights/2026/this-time-its-personal-the-rise-of-dynamic-personalised-pricing-and-what-it-means-for-inflation) |
 | 23 Jan 2026 | [What were the drivers of UK long-term interest rates in 2025?](bank-insights/2026-01-23-what-were-the-drivers-of-uk-long-term-interest-rates-in-2025-6bd1ca75.md) | [boe](https://www.bankofengland.co.uk/bank-insights/2026/what-were-the-drivers-of-uk-long-term-interest-rates-in-2025) |
 
-## Events (28)
+## Events (30)
 
 | Date (UK) | Title | Source |
 |---|---|---|
 | 17 Feb 2027 | [Challenges to Monetary Policy: University of Leeds and Bank of England Workshop](events/2027-02-17-challenges-to-monetary-policy-university-of-leeds-and-bank-o-179bc04e.md) | [boe](https://www.bankofengland.co.uk/events/2027/february/challenges-to-monetary-policy-university-of-leeds-and-boe-workshop) |
+| 25 Nov 2026 | [Treasury Select Committee on the November Monetary Policy Report (2.15pm)](events/2026-11-25-treasury-select-committee-on-the-november-monetary-policy-re-7a7cd851.md) | [boe](https://www.bankofengland.co.uk/events/2026/november/tsc-november-monetary-policy-report) |
 | 16 Nov 2026 | [Bank of England to hear the views of people in Northern Ireland about the cost of living](events/2026-11-16-bank-of-england-to-hear-the-views-of-people-in-northern-irel-f78f5c8f.md) | [boe](https://www.bankofengland.co.uk/events/2026/november/boe-to-hear-views-of-people-in-belfast-about-the-cost-of-living) |
 | 16 Nov 2026 | [Bank of England to hear the views of the people in Bristol about the cost of living](events/2026-11-16-bank-of-england-to-hear-the-views-of-the-people-in-bristol-a-9b30ac4e.md) | [boe](https://www.bankofengland.co.uk/events/2026/november/boe-to-hear-views-of-people-in-bristol-about-the-cost-of-living) |
+| 10 Nov 2026 | [Agency national MPR briefing - November 2026](events/2026-11-10-agency-national-mpr-briefing-november-2026-7514d40e.md) | [boe](https://www.bankofengland.co.uk/events/2026/november/mpr-national-agency-briefing-november-2026) |
 | 07 Oct 2026 | [Bank of England to hear the views of the people in Cheshire about the cost of living](events/2026-10-07-bank-of-england-to-hear-the-views-of-the-people-in-cheshire-4b7de039.md) | [boe](https://www.bankofengland.co.uk/events/2026/october/boe-to-hear-views-of-people-in-warrington-about-the-cost-of-living) |
 | 28 Sep 2026 | [Dave Ramsden speech on Quantitative Tightening](events/2026-09-28-dave-ramsden-speech-on-quantitative-tightening-6c693556.md) | [boe](https://www.bankofengland.co.uk/events/2026/september/dave-ramsden-quantitative-tightening) |
 | 08 Sep 2026 | [Treasury Select Committee on the July Monetary Policy Report](events/2026-09-08-treasury-select-committee-on-the-july-monetary-policy-report-35a2ab06.md) | [boe](https://www.bankofengland.co.uk/events/2026/september/tsc-july-monetary-policy-report) |
@@ -63,10 +65,11 @@ Bank Rate, the MPC, inflation, the Monetary Policy Report, the Agents and the As
 | 07 Mar 2018 | [What is deflation?](knowledgebank/2018-03-07-what-is-deflation-2d7c154c.md) | [boe](https://www.bankofengland.co.uk/explainers/what-is-deflation) |
 | 23 Jun 2017 | [How is the Bank of England independent of the Government?](knowledgebank/2017-06-22-how-is-the-bank-of-england-independent-of-the-government-f1951adb.md) | [boe](https://www.bankofengland.co.uk/explainers/how-is-the-bank-of-england-independent-of-the-government) |
 
-## News (11)
+## News (12)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 19 Nov 2026 | [Minutes of the Market Participants Group meeting – 18 November 2026](news/2026-11-19-minutes-of-the-market-participants-group-meeting-18-november-5ad98198.md) | [boe](https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026) |
 | 10 Nov 2026 | [Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026](news/2026-11-10-exchange-of-letters-between-the-governor-and-the-chancellor-95faff72.md) | [boe](https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026) |
 | 05 Nov 2026 | [Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes](news/2026-11-05-bank-rate-increased-to-4-november-2026-monetary-policy-summa-e89a63b6.md) | [boe](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026) |
 | 28 Oct 2026 | [Remit for the Monetary Policy Committee - October 2026](news/2026-10-28-remit-for-the-monetary-policy-committee-october-2026-7940ad1f.md) | [boe](https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026) |
@@ -79,10 +82,11 @@ Bank Rate, the MPC, inflation, the Monetary Policy Report, the Agents and the As
 | 17 Sep 2026 | [Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026](news/2026-09-17-asset-purchase-facility-gilt-sales-market-notice-17-septembe-f37ac78d.md) | [boe](https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026) |
 | 30 Jul 2026 | [Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](news/2026-07-30-bank-rate-maintained-at-3-75-july-2026-monetary-policy-summa-daa6d477.md) | [boe](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026) |
 
-## Publications (13)
+## Publications (14)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 20 Nov 2026 | [When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness](publications/2026-11-20-when-vacancies-become-cheap-vacancy-posting-costs-and-equili-bcd4fecc.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness) |
 | 10 Nov 2026 | [Asset Purchase Facility Quarterly Report - 2026 Q3](publications/2026-11-10-asset-purchase-facility-quarterly-report-2026-q3-2be835a6.md) | [boe](https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3) |
 | 05 Nov 2026 | [Monetary Policy Report - November 2026](publications/2026-11-05-monetary-policy-report-november-2026-ed71925f.md) | [boe](https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026) |
 | 30 Oct 2026 | [Monthly Decision Maker Panel data - October 2026](publications/2026-10-30-monthly-decision-maker-panel-data-october-2026-c3f78c83.md) | [boe](https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026) |

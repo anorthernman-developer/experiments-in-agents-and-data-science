@@ -2,7 +2,7 @@
 
 The FPC, systemic risk, stress testing, resolution and financial resilience.
 
-**22 items** across 6 content types.
+**25 items** across 6 content types.
 
 
 ## Bank Insights (6)
@@ -31,24 +31,27 @@ The FPC, systemic risk, stress testing, resolution and financial resilience.
 | 15 Nov 2017 | [Climate change: what are the risks to financial stability?](knowledgebank/2017-11-15-climate-change-what-are-the-risks-to-financial-stability-d4285a2f.md) | [boe](https://www.bankofengland.co.uk/explainers/climate-change-what-are-the-risks-to-financial-stability) |
 | 08 Sep 2017 | [Is the global financial system any safer than before?](knowledgebank/2017-09-07-is-the-global-financial-system-any-safer-than-before-68cff365.md) | [boe](https://www.bankofengland.co.uk/explainers/is-the-global-financial-system-any-safer-than-before) |
 
-## News (2)
+## News (3)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 19 Nov 2026 | [Cyber resilience guidance consultation and AI and quantum effective practices](news/2026-11-19-cyber-resilience-guidance-consultation-and-ai-and-quantum-ef-459f2d6e.md) | [boe](https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices) |
 | 09 Oct 2026 | [CMORG holds sector-wide cloud outage simulation exercise](news/2026-10-09-cmorg-holds-sector-wide-cloud-outage-simulation-exercise-95a84b00.md) | [boe](https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise) |
 | 30 Sep 2026 | [Financial Policy Committee Record – September 2026](news/2026-09-30-financial-policy-committee-record-september-2026-e58b9a74.md) | [boe](https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026) |
 
-## Publications (2)
+## Publications (3)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 16 Nov 2026 | [Ensuring the resilience of CCPs: near-final policy statement](publications/2026-11-16-ensuring-the-resilience-of-ccps-near-final-policy-statement-3b534f49.md) | [boe](https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement) |
 | 23 Oct 2026 | [Lighting the shadows: central bank policy transmission through banks and non-banks](publications/2026-10-23-lighting-the-shadows-central-bank-policy-transmission-throug-947bb1ea.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks) |
 | 30 Sep 2026 | [Systemic Risk Survey Results - 2026 H2](publications/2026-09-30-systemic-risk-survey-results-2026-h2-dadf5fff.md) | [boe](https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h2) |
 
-## Speeches (7)
+## Speeches (8)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 18 Nov 2026 | [Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick](speeches/2026-11-18-transparency-and-predictability-a-foundation-for-future-resi-15144c42.md) | [boe](https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner) |
 | 23 Oct 2026 | [Physical shocks and economic resilience: a central bank perspective − speech by James Talbot](speeches/2026-10-23-physical-shocks-and-economic-resilience-a-central-bank-persp-52b84329.md) | [boe](https://www.bankofengland.co.uk/speech/2026/october/physical-shocks-and-economic-resilience-speech-by-james-talbot) |
 | 08 Oct 2026 | [Financial resilience in an age of repeated shocks -  speech by Andrew Bailey](speeches/2026-10-08-financial-resilience-in-an-age-of-repeated-shocks-speech-by-07312d1a.md) | [boe](https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul) |
 | 23 Sep 2026 | [No bank too big to fail, and none too small to resolve − speech by Ruth Smith](speeches/2026-09-23-no-bank-too-big-to-fail-and-none-too-small-to-resolve-speech-607ba7a1.md) | [boe](https://www.bankofengland.co.uk/speech/2026/september/ruth-smith-speech-florence-school-of-banking-and-finance-european-university-institute-florence) |

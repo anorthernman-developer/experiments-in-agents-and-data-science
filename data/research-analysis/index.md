@@ -2,7 +2,7 @@
 
 Staff working papers, Bank Insights, technical papers and economic research.
 
-**32 items** across 4 content types.
+**42 items** across 4 content types.
 
 
 ## Bank Insights (12)
@@ -35,10 +35,20 @@ Staff working papers, Bank Insights, technical papers and economic research.
 | 21 Nov 2025 | [12th Asset Pricing workshop](events/2025-11-21-12th-asset-pricing-workshop-cb62f37e.md) | [boe](https://www.bankofengland.co.uk/events/2025/november/12th-asset-pricing-workshop) |
 | 05 Jun 2025 | [ECONDAT 2025 spring meeting: Economics with nontraditional data and analytical tools](events/2025-06-05-econdat-2025-spring-meeting-economics-with-nontraditional-da-56ac134c.md) | [boe](https://www.bankofengland.co.uk/events/2025/june/econdat-spring-2025-economics-with-nontraditional-data-and-analytical-tools) |
 
-## Publications (6)
+## Publications (16)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 16 Nov 2026 | [The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties](publications/2026-11-16-the-impact-of-default-waterfall-positioning-on-pro-rata-seco-ccef0d68.md) | [boe](https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp) |
+| 16 Nov 2026 | [The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement](publications/2026-11-16-the-bank-of-england-s-approach-to-using-its-requirements-and-5615e248.md) | [boe](https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps) |
+| 16 Nov 2026 | [The Bank of England’s approach to rule permissions and waivers: Policy statement](publications/2026-11-16-the-bank-of-england-s-approach-to-rule-permissions-and-waive-914239ab.md) | [boe](https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps) |
+| 16 Nov 2026 | [Statement of policy: The Bank of England’s approach to rule permissions and waivers](publications/2026-11-16-statement-of-policy-the-bank-of-england-s-approach-to-rule-p-51c8d96f.md) | [boe](https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers) |
+| 16 Nov 2026 | [Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs](publications/2026-11-16-statement-of-policy-the-bank-of-england-s-approach-to-using-6c89924f.md) | [boe](https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps) |
+| 16 Nov 2026 | [Near-final supervisory statement on CCP margin](publications/2026-11-16-near-final-supervisory-statement-on-ccp-margin-71083d3a.md) | [boe](https://www.bankofengland.co.uk/paper/2026/ss/near-final-supervisory-statement-on-ccp-margin) |
+| 16 Nov 2026 | [Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs](publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-c5e17d75.md) | [boe](https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps) |
+| 16 Nov 2026 | [Near-final statement of policy: The Bank of England’s approach to supervisory processes (model changes, recognition orders and variations of recognition orders) and margin permissions](publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-fd97e59e.md) | [boe](https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions) |
+| 16 Nov 2026 | [Near-final statement of policy: The Bank of England’s approach to comparable compliance permissions](publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-0a8b20e0.md) | [boe](https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance) |
+| 16 Nov 2026 | [Near-final Statement of Policy: The Bank of England’s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangements permissions)](publications/2026-11-16-near-final-statement-of-policy-the-bank-of-england-s-approac-a5eb648f.md) | [boe](https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules) |
 | 23 Oct 2026 | [Global-to-UK SVAR](publications/2026-10-23-global-to-uk-svar-a4e26fb5.md) | [boe](https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar) |
 | 15 Oct 2026 | [Review of CCP collateral rules - letters of credit](publications/2026-10-15-review-of-ccp-collateral-rules-letters-of-credit-81ac97f6.md) | [boe](https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit) |
 | 09 Oct 2026 | [Sorting into entrepreneurial teams](publications/2026-10-09-sorting-into-entrepreneurial-teams-b504f68f.md) | [boe](https://www.bankofengland.co.uk/working-paper/2026/sorting-into-entrepreneurial-teams) |

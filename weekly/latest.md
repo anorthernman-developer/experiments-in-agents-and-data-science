@@ -1,45 +1,54 @@
-# Bank of England: what's new, week to Monday 16 November 2026
+# Bank of England: what's new, week to Monday 23 November 2026
 
-Window: 09 Nov to 16 Nov 2026 (UK time). 13 items published in the window; 378 items newly added to the archive in the window; archive now holds 378 items.
+Window: 16 Nov to 23 Nov 2026 (UK time). 23 items published in the window; 25 items newly added to the archive in the window; archive now holds 403 items.
 
-**At a glance:** Payments and Digital Money 5, Monetary Policy 3, Research and Analysis 2, Markets and Operations 1, Prudential Regulation 1, Corporate and Governance 1.
+**At a glance:** Research and Analysis 11, Prudential Regulation 5, Financial Stability 3, Monetary Policy 2, Markets and Operations 1, Economy and Society 1.
 
 
-## Monetary Policy (3)
+## Monetary Policy (2)
 
-- **Tue 10 Nov**: [The low-gear labour market − speech by Clare Lombardelli](https://www.bankofengland.co.uk/speech/2026/november/clare-lombardelli-speech-at-the-bank-watchers-conference) _(Speeches)_
-- **Tue 10 Nov**: [Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026](https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026) _(News)_
-- **Tue 10 Nov**: [Asset Purchase Facility Quarterly Report - 2026 Q3](https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3) _(Publications)_
+- **Fri 20 Nov**: [When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness](https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness) _(Publications)_
+- **Thu 19 Nov**: [Minutes of the Market Participants Group meeting – 18 November 2026](https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026) _(News)_
 
-## Prudential Regulation (1)
+## Financial Stability (3)
 
-- **Tue 10 Nov**: [PS20/26 – Amendments to the Large Exposures Framework – Part 2](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/amendments-to-the-large-exposures-framework-part-2-policy-statement) _(Prudential Regulation (PRA))_
+- **Thu 19 Nov**: [Cyber resilience guidance consultation and AI and quantum effective practices](https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices) _(News)_
+- **Wed 18 Nov**: [Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick](https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner) _(Speeches)_
+- **Mon 16 Nov**: [Ensuring the resilience of CCPs: near-final policy statement](https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement) _(Publications)_
 
-## Payments and Digital Money (5)
+## Prudential Regulation (5)
 
-- **Fri 13 Nov**: [The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC](https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release) _(News)_
-- **Fri 13 Nov**: [Project Meridian FX APAC: Technical Report](https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-technical-report) _(Publications)_
-- **Fri 13 Nov**: [Project Meridian FX APAC: Policy Report](https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-policy-report) _(Publications)_
-- **Fri 13 Nov**: [Project Meridian FX APAC: Executive summary and introduction](https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-executive-summary-and-introduction) _(Publications)_
-- **Wed 11 Nov**: [UK Retail Payments Infrastructure: moving from vision to design − speech by Victoria Cleland](https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london) _(Speeches)_
+- **Thu 19 Nov**: [Effective practices: Cyber risk and resilience management relating to quantum computing](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing) _(Prudential Regulation (PRA))_
+- **Thu 19 Nov**: [Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence) _(Prudential Regulation (PRA))_
+- **Thu 19 Nov**: [CP17/26 and GC26/9 – Cyber risk and resilience management](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper) _(Prudential Regulation (PRA))_
+- **Wed 18 Nov**: [CP16/26 – Clarifying the Prudential Regulation Authority’s approach to the implementation of the O-SII buffer](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/clarifying-the-pra-approach-to-the-implementation-of-the-o-sii-buffer-consultation-paper) _(Prudential Regulation (PRA))_
+- **Tue 17 Nov**: [Eleventh edition of the Regulatory Initiatives Grid](https://www.bankofengland.co.uk/report/regulatory-initiatives-grid) _(Publications)_
 
 ## Markets and Operations (1)
 
-- **Thu 12 Nov**: [Bank of England Weekly Report 11 November 2026](https://www.bankofengland.co.uk/weekly-report/2026/11-november-2026) _(Publications)_
+- **Thu 19 Nov**: [Bank of England Weekly Report 18 November 2026](https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026) _(Publications)_
 
-## Research and Analysis (2)
+## Research and Analysis (11)
 
+- **Mon 16 Nov**: [The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties](https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp) _(Publications)_
+- **Mon 16 Nov**: [The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement](https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps) _(Publications)_
+- **Mon 16 Nov**: [The Bank of England’s approach to rule permissions and waivers: Policy statement](https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps) _(Publications)_
+- **Mon 16 Nov**: [Statement of policy: The Bank of England’s approach to rule permissions and waivers](https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers) _(Publications)_
+- **Mon 16 Nov**: [Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs](https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps) _(Publications)_
+- **Mon 16 Nov**: [Near-final supervisory statement on CCP margin](https://www.bankofengland.co.uk/paper/2026/ss/near-final-supervisory-statement-on-ccp-margin) _(Publications)_
+- **Mon 16 Nov**: [Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs](https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps) _(Publications)_
+- **Mon 16 Nov**: [Near-final statement of policy: The Bank of England’s approach to supervisory processes (model changes, recognition orders and variations of recognition orders) and margin permissions](https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions) _(Publications)_
+- **Mon 16 Nov**: [Near-final statement of policy: The Bank of England’s approach to comparable compliance permissions](https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance) _(Publications)_
+- **Mon 16 Nov**: [Near-final Statement of Policy: The Bank of England’s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangements permissions)](https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules) _(Publications)_
 - **Mon 16 Nov**: [Huw Pill: Speech at the Institute of International Monetary Research, London, (to be released on early w/c 16 November 2026)](https://www.bankofengland.co.uk/speech/2026/november/huw-pill-speech-at-the-institute-of-international-monetary-research) _(Speeches)_
-- **Wed 11 Nov**: [Principals and Agents – speech by Jonathan Hall](https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop) _(Speeches)_
 
-## Corporate and Governance (1)
+## Economy and Society (1)
 
-- **Mon 09 Nov**: [Central Bank independence in today’s world - Speech by Andrew Bailey](https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-swiss-institute-international-studies-lecture-series) _(Speeches)_
+- **Wed 18 Nov**: [The UK’s regional growth: unlocking the economy’s full potential - speech by Andrew Bailey](https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-the-annual-institute-of-economic-development-conference-london) _(Speeches)_
 
 ## Coming up (next four weeks)
 
-- **Mon 16 Nov 2026**: [Bank of England to hear the views of the people in Bristol about the cost of living](https://www.bankofengland.co.uk/events/2026/november/boe-to-hear-views-of-people-in-bristol-about-the-cost-of-living)
-- **Mon 16 Nov 2026**: [Bank of England to hear the views of people in Northern Ireland about the cost of living](https://www.bankofengland.co.uk/events/2026/november/boe-to-hear-views-of-people-in-belfast-about-the-cost-of-living)
+- **Wed 25 Nov 2026**: [Treasury Select Committee on the November Monetary Policy Report (2.15pm)](https://www.bankofengland.co.uk/events/2026/november/tsc-november-monetary-policy-report)
 
 ---
 _Generated automatically by `scripts/build.py` from the public Bank of England RSS feeds. Unofficial; not affiliated with the Bank of England._

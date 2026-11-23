@@ -2,7 +2,7 @@
 
 PRA rules and supervision of banks, building societies, credit unions and insurers.
 
-**83 items** across 8 content types.
+**88 items** across 8 content types.
 
 
 ## Bank Insights (1)
@@ -44,10 +44,14 @@ PRA rules and supervision of banks, building societies, credit unions and insure
 | 20 Jul 2026 | [PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data](news/2026-07-20-pra-fines-hdi-global-se-4-165-000-for-inaccurate-reporting-o-e026f16a.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting) |
 | 14 Jul 2026 | [PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness](news/2026-07-14-pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-879f9d84.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness) |
 
-## Prudential Regulation (PRA) (50)
+## Prudential Regulation (PRA) (54)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 19 Nov 2026 | [Effective practices: Cyber risk and resilience management relating to quantum computing](prudential-regulation-publications/2026-11-19-effective-practices-cyber-risk-and-resilience-management-rel-bf07ae82.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing) |
+| 19 Nov 2026 | [Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)](prudential-regulation-publications/2026-11-19-effective-practices-cyber-risk-and-resilience-management-rel-57d69072.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence) |
+| 19 Nov 2026 | [CP17/26 and GC26/9 – Cyber risk and resilience management](prudential-regulation-publications/2026-11-19-cp17-26-and-gc26-9-cyber-risk-and-resilience-management-d8951035.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper) |
+| 18 Nov 2026 | [CP16/26 – Clarifying the Prudential Regulation Authority’s approach to the implementation of the O-SII buffer](prudential-regulation-publications/2026-11-18-cp16-26-clarifying-the-prudential-regulation-authority-s-app-f00b5934.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/clarifying-the-pra-approach-to-the-implementation-of-the-o-sii-buffer-consultation-paper) |
 | 10 Nov 2026 | [PS20/26 – Amendments to the Large Exposures Framework – Part 2](prudential-regulation-publications/2026-11-10-ps20-26-amendments-to-the-large-exposures-framework-part-2-d0dd5694.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/amendments-to-the-large-exposures-framework-part-2-policy-statement) |
 | 03 Nov 2026 | [DP2/26 – Credit Unions: Supporting sustainable growth and resilience](prudential-regulation-publications/2026-11-03-dp2-26-credit-unions-supporting-sustainable-growth-and-resil-7f56725b.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/credit-unions-supporting-sustainable-growth-and-resilience-discussion-paper) |
 | 03 Nov 2026 | [CP15/26 – Northern Ireland Credit Unions: Implementing legislative changes](prudential-regulation-publications/2026-11-03-cp15-26-northern-ireland-credit-unions-implementing-legislat-584b712c.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/nicu-implementing-legislative-changes-consultation-paper) |
@@ -99,10 +103,11 @@ PRA rules and supervision of banks, building societies, credit unions and insure
 | 01 Apr 2026 | [CP6/26 – High loan to income lending](prudential-regulation-publications/2026-04-01-cp6-26-high-loan-to-income-lending-99335221.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/high-loan-to-income-lending-consultation-paper) |
 | 31 Mar 2026 | [PS8/26 – Financial Services Compensation Scheme – Management Expenses Levy Limit (MELL) 2026/27](prudential-regulation-publications/2026-03-31-ps8-26-financial-services-compensation-scheme-management-exp-75888da2.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-policy-statement) |
 
-## Publications (1)
+## Publications (2)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 17 Nov 2026 | [Eleventh edition of the Regulatory Initiatives Grid](publications/2026-11-17-eleventh-edition-of-the-regulatory-initiatives-grid-c6afc131.md) | [boe](https://www.bankofengland.co.uk/report/regulatory-initiatives-grid) |
 | 22 Sep 2026 | [The Bank of England’s fees regime for recognised payment systems and specified service providers supervision 2026/27](publications/2026-09-22-the-bank-of-england-s-fees-regime-for-recognised-payment-sys-7b8df66b.md) | [boe](https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27) |
 
 ## Speeches (6)

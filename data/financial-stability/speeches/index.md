@@ -2,6 +2,7 @@
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 18 Nov 2026 | [Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick](2026-11-18-transparency-and-predictability-a-foundation-for-future-resi-15144c42.md) | [boe](https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner) |
 | 23 Oct 2026 | [Physical shocks and economic resilience: a central bank perspective − speech by James Talbot](2026-10-23-physical-shocks-and-economic-resilience-a-central-bank-persp-52b84329.md) | [boe](https://www.bankofengland.co.uk/speech/2026/october/physical-shocks-and-economic-resilience-speech-by-james-talbot) |
 | 08 Oct 2026 | [Financial resilience in an age of repeated shocks -  speech by Andrew Bailey](2026-10-08-financial-resilience-in-an-age-of-repeated-shocks-speech-by-07312d1a.md) | [boe](https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul) |
 | 23 Sep 2026 | [No bank too big to fail, and none too small to resolve − speech by Ruth Smith](2026-09-23-no-bank-too-big-to-fail-and-none-too-small-to-resolve-speech-607ba7a1.md) | [boe](https://www.bankofengland.co.uk/speech/2026/september/ruth-smith-speech-florence-school-of-banking-and-finance-european-university-institute-florence) |
