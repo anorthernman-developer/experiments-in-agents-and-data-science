@@ -1,7 +1,7 @@
 {
   "generated": "2026-11-23",
   "source": "https://www.bankofengland.co.uk/rss",
-  "count": 403,
+  "count": 405,
   "items": [
     {
       "id": "9801e202-2fdf-4e0b-b570-2693513142a1",
@@ -50,6 +50,38 @@
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "path": "data/monetary-policy/events/2026-11-25-treasury-select-committee-on-the-november-monetary-policy-re-7a7cd851.md"
+    },
+    {
+      "id": "5a4380aa-6264-4dfc-bc81-591ae6f272b7",
+      "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+      "description": "The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)",
+      "published": "2026-11-23T10:00:00Z",
+      "theme": "financial-stability",
+      "content_type": "news",
+      "feeds": [
+        "news"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/financial-stability/news/2026-11-23-general-insurance-stress-test-highlights-value-of-rehearsing-5a4380aa.md"
+    },
+    {
+      "id": "e3f15572-6e01-42ae-bb87-90775380729b",
+      "title": "Dynamic General Insurance Stress Test (DyGIST): 2026 results",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/dygist-2026",
+      "description": "The PRA have published results for DyGIST 2026",
+      "published": "2026-11-23T10:00:00Z",
+      "theme": "prudential-regulation",
+      "content_type": "prudential-regulation-publications",
+      "feeds": [
+        "prudential-regulation-publications"
+      ],
+      "rss_categories": [],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "path": "data/prudential-regulation/prudential-regulation-publications/2026-11-23-dynamic-general-insurance-stress-test-dygist-2026-results-e3f15572.md"
     },
     {
       "id": "bcd4fecc-92db-4908-aeae-ee10ca852173",

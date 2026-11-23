@@ -1,6 +1,6 @@
 # Bank of England RSS Taxonomy (Experiments in Agents and Data Science)
 
-> An unofficial, agent-maintained index of everything published through the Bank of England's public RSS feeds (news, speeches, publications, statistics, PRA publications, events, explainers and Bank Insights), organised into a subject taxonomy and refreshed weekly. 403 items; last updated 2026-11-23. Not affiliated with the Bank of England; all content and links belong to the Bank.
+> An unofficial, agent-maintained index of everything published through the Bank of England's public RSS feeds (news, speeches, publications, statistics, PRA publications, events, explainers and Bank Insights), organised into a subject taxonomy and refreshed weekly. 405 items; last updated 2026-11-23. Not affiliated with the Bank of England; all content and links belong to the Bank.
 
 Each entry links to the original page on bankofengland.co.uk. Themes are assigned by transparent keyword rules (see scripts/taxonomy.py). Machine-readable data: data/items.json and data/items.csv.
 
@@ -121,6 +121,7 @@ Bank Rate, the MPC, inflation, the Monetary Policy Report, the Agents and the As
 
 The FPC, systemic risk, stress testing, resolution and financial resilience.
 
+- [General insurance stress test highlights value of rehearsing crisis response and recovery](https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery): 23 Nov 2026, News. The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)
 - [Cyber resilience guidance consultation and AI and quantum effective practices](https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices): 19 Nov 2026, News. UK’s financial regulators are proposing a new guidance to help financial services firms prepare for and recover from cyber incidents as threats grow.
 - [Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick](https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner): 18 Nov 2026, Speeches. Given at the UK Finance Annual Dinner, London
 - [Ensuring the resilience of CCPs: near-final policy statement](https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement): 16 Nov 2026, Publications. Near-final policy statement
@@ -151,6 +152,7 @@ The FPC, systemic risk, stress testing, resolution and financial resilience.
 
 PRA rules and supervision of banks, building societies, credit unions and insurers.
 
+- [Dynamic General Insurance Stress Test (DyGIST): 2026 results](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/dygist-2026): 23 Nov 2026, Prudential Regulation (PRA). The PRA have published results for DyGIST 2026
 - [Effective practices: Cyber risk and resilience management relating to quantum computing](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing): 19 Nov 2026, Prudential Regulation (PRA). This joint PRA, FCA and Bank publication highlights effective practices to manage cyber resilience and risks relating to quantum computing for firms and fina...
 - [Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence): 19 Nov 2026, Prudential Regulation (PRA). This joint PRA, FCA and Bank publication highlights effective practices to manage cyber resilience and risks relating to artificial intelligence (AI) for fir...
 - [CP17/26 and GC26/9 – Cyber risk and resilience management](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper): 19 Nov 2026, Prudential Regulation (PRA). Consultation paper 17/26

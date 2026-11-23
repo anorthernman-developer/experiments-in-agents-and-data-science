@@ -1,6 +1,6 @@
 # Bank of England RSS Taxonomy (Experiments in Agents and Data Science)
 
-> An unofficial, agent-maintained index of everything published through the Bank of England's public RSS feeds (news, speeches, publications, statistics, PRA publications, events, explainers and Bank Insights), organised into a subject taxonomy and refreshed weekly. 403 items; last updated 2026-11-23. Not affiliated with the Bank of England; all content and links belong to the Bank.
+> An unofficial, agent-maintained index of everything published through the Bank of England's public RSS feeds (news, speeches, publications, statistics, PRA publications, events, explainers and Bank Insights), organised into a subject taxonomy and refreshed weekly. 405 items; last updated 2026-11-23. Not affiliated with the Bank of England; all content and links belong to the Bank.
 
 Each entry links to the original page on bankofengland.co.uk. Themes are assigned by transparent keyword rules (see scripts/taxonomy.py). Machine-readable data: data/items.json and data/items.csv.
 
@@ -841,6 +841,15 @@ We have specific legal responsibilities for setting policy – for interest rate
 
 The FPC, systemic risk, stress testing, resolution and financial resilience.
 
+### General insurance stress test highlights value of rehearsing crisis response and recovery
+
+- URL: https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery
+- Published: 23 November 2026 10:00 (UK time)
+- Content type: News
+- Feeds: news
+
+The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)
+
 ### Cyber resilience guidance consultation and AI and quantum effective practices
 
 - URL: https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices
@@ -1070,6 +1079,15 @@ There is more work to be done, but the global financial system is safe, simpler 
 ## Prudential Regulation
 
 PRA rules and supervision of banks, building societies, credit unions and insurers.
+
+### Dynamic General Insurance Stress Test (DyGIST): 2026 results
+
+- URL: https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/dygist-2026
+- Published: 23 November 2026 10:00 (UK time)
+- Content type: Prudential Regulation (PRA)
+- Feeds: prudential-regulation-publications
+
+The PRA have published results for DyGIST 2026
 
 ### Effective practices: Cyber risk and resilience management relating to quantum computing
 

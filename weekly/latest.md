@@ -1,8 +1,8 @@
 # Bank of England: what's new, week to Monday 23 November 2026
 
-Window: 16 Nov to 23 Nov 2026 (UK time). 23 items published in the window; 25 items newly added to the archive in the window; archive now holds 403 items.
+Window: 16 Nov to 23 Nov 2026 (UK time). 25 items published in the window; 27 items newly added to the archive in the window; archive now holds 405 items.
 
-**At a glance:** Research and Analysis 11, Prudential Regulation 5, Financial Stability 3, Monetary Policy 2, Markets and Operations 1, Economy and Society 1.
+**At a glance:** Research and Analysis 11, Prudential Regulation 6, Financial Stability 4, Monetary Policy 2, Markets and Operations 1, Economy and Society 1.
 
 
 ## Monetary Policy (2)
@@ -10,14 +10,16 @@ Window: 16 Nov to 23 Nov 2026 (UK time). 23 items published in the window; 25 it
 - **Fri 20 Nov**: [When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness](https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness) _(Publications)_
 - **Thu 19 Nov**: [Minutes of the Market Participants Group meeting – 18 November 2026](https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026) _(News)_
 
-## Financial Stability (3)
+## Financial Stability (4)
 
+- **Mon 23 Nov**: [General insurance stress test highlights value of rehearsing crisis response and recovery](https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery) _(News)_
 - **Thu 19 Nov**: [Cyber resilience guidance consultation and AI and quantum effective practices](https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices) _(News)_
 - **Wed 18 Nov**: [Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick](https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner) _(Speeches)_
 - **Mon 16 Nov**: [Ensuring the resilience of CCPs: near-final policy statement](https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement) _(Publications)_
 
-## Prudential Regulation (5)
+## Prudential Regulation (6)
 
+- **Mon 23 Nov**: [Dynamic General Insurance Stress Test (DyGIST): 2026 results](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/dygist-2026) _(Prudential Regulation (PRA))_
 - **Thu 19 Nov**: [Effective practices: Cyber risk and resilience management relating to quantum computing](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing) _(Prudential Regulation (PRA))_
 - **Thu 19 Nov**: [Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence) _(Prudential Regulation (PRA))_
 - **Thu 19 Nov**: [CP17/26 and GC26/9 – Cyber risk and resilience management](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper) _(Prudential Regulation (PRA))_

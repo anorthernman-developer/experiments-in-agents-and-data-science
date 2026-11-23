@@ -2,7 +2,7 @@
 
 PRA rules and supervision of banks, building societies, credit unions and insurers.
 
-**88 items** across 8 content types.
+**89 items** across 8 content types.
 
 
 ## Bank Insights (1)
@@ -44,10 +44,11 @@ PRA rules and supervision of banks, building societies, credit unions and insure
 | 20 Jul 2026 | [PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data](news/2026-07-20-pra-fines-hdi-global-se-4-165-000-for-inaccurate-reporting-o-e026f16a.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting) |
 | 14 Jul 2026 | [PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness](news/2026-07-14-pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-879f9d84.md) | [boe](https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness) |
 
-## Prudential Regulation (PRA) (54)
+## Prudential Regulation (PRA) (55)
 
 | Date (UK) | Title | Source |
 |---|---|---|
+| 23 Nov 2026 | [Dynamic General Insurance Stress Test (DyGIST): 2026 results](prudential-regulation-publications/2026-11-23-dynamic-general-insurance-stress-test-dygist-2026-results-e3f15572.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/dygist-2026) |
 | 19 Nov 2026 | [Effective practices: Cyber risk and resilience management relating to quantum computing](prudential-regulation-publications/2026-11-19-effective-practices-cyber-risk-and-resilience-management-rel-bf07ae82.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing) |
 | 19 Nov 2026 | [Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)](prudential-regulation-publications/2026-11-19-effective-practices-cyber-risk-and-resilience-management-rel-57d69072.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence) |
 | 19 Nov 2026 | [CP17/26 and GC26/9 – Cyber risk and resilience management](prudential-regulation-publications/2026-11-19-cp17-26-and-gc26-9-cyber-risk-and-resilience-management-d8951035.md) | [boe](https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper) |

@@ -7,13 +7,13 @@ This repository shows what an agent pipeline can do with one public dataset. Eve
 > **Unofficial project.** It is not affiliated with, endorsed by or maintained by the Bank of England. All titles, descriptions and links come from the Bank's public RSS feeds and remain the Bank's property. Please see the [Bank of England's legal and terms page](https://www.bankofengland.co.uk/legal). Theme labels are assigned automatically and may sometimes be wrong.
 
 <!-- STATS:START -->
-**Last refresh:** 2026-11-23 &nbsp;|&nbsp; **Feeds:** 8/8 OK &nbsp;|&nbsp; **Items archived:** 403 &nbsp;|&nbsp; **Published in the last 7 days:** 23 &nbsp;|&nbsp; [This week's digest](weekly/latest.md)
+**Last refresh:** 2026-11-23 &nbsp;|&nbsp; **Feeds:** 8/8 OK &nbsp;|&nbsp; **Items archived:** 405 &nbsp;|&nbsp; **Published in the last 7 days:** 25 &nbsp;|&nbsp; [This week's digest](weekly/latest.md)
 
 | Theme | Items |
 |---|---:|
 | [Monetary Policy](data/monetary-policy/index.md) | 90 |
-| [Financial Stability](data/financial-stability/index.md) | 25 |
-| [Prudential Regulation](data/prudential-regulation/index.md) | 88 |
+| [Financial Stability](data/financial-stability/index.md) | 26 |
+| [Prudential Regulation](data/prudential-regulation/index.md) | 89 |
 | [Technology and AI](data/technology-ai/index.md) | 10 |
 | [Payments and Digital Money](data/payments-digital-money/index.md) | 26 |
 | [Markets and Operations](data/markets-operations/index.md) | 40 |
